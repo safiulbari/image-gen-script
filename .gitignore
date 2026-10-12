@@ -1,0 +1,24 @@
+# Images - skip uploading generated images to GitHub
+images/
+
+# Environment variables (keep secrets local)
+.env
+.env.example
+.env.*
+.env.local
+.env.production
+
+# Python virtual environment
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Node dependencies
+node_modules/
+
+# macOS system files
+.DS_Store
+
+# Backup files
+*.backup

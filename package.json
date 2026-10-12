@@ -1,0 +1,18 @@
+{
+  "name": "othe.app-images",
+  "version": "1.0.0",
+  "description": "This tool reads prompts from your CSV file (`Othe.app image generation industry profession and prompt - Sheet1.csv`), generates high-quality images using the Gemini / Imagen 3 API (or OpenAI DALL-E), saves each image with its profession name into an output directory, and marks the CSV rows as `Completed` in real time.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "body-parser": "^2.3.0",
+    "express": "^5.3.0"
+  }
+}

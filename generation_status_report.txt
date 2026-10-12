@@ -1,0 +1,801 @@
+================================================================================
+OTHE.APP IMAGE GENERATION STATUS REPORT
+Generated on: 2026-10-11 18:04:05
+================================================================================
+
+TOTAL PROFESSIONS:      414
+GENERATED & READY:      370 (89.4%)
+REMAINING IN QUEUE:     44 (10.6%)
+TARGET DIMENSION:       1920x1080 (Full HD, 16:9)
+
+================================================================================
+PART 1: GENERATED IMAGES (370 items)
+================================================================================
+[001/414] [COMPLETED] Accounting & Finance -> Auditor
+           File: images/Accounting & Finance/Auditor.png (2.30 MB)
+[002/414] [COMPLETED] Accounting & Finance -> Accountant
+           File: images/Accounting & Finance/Accountant.png (2.37 MB)
+[003/414] [COMPLETED] Accounting & Finance -> Tax Planner
+           File: images/Accounting & Finance/Tax Planner.png (2.27 MB)
+[004/414] [COMPLETED] Accounting & Finance -> Treasury Manager
+           File: images/Accounting & Finance/Treasury Manager.png (2.31 MB)
+[005/414] [COMPLETED] Production & Operations -> Operations Supervisor
+           File: images/Production & Operations/Operations Supervisor.png (2.57 MB)
+[006/414] [COMPLETED] Production & Operations -> Quality controller
+           File: images/Production & Operations/Quality controller.png (2.98 MB)
+[007/414] [COMPLETED] Production & Operations -> Machine Operator
+           File: images/Production & Operations/Machine Operator.png (2.76 MB)
+[008/414] [COMPLETED] Production & Operations -> Operations Analyst
+           File: images/Production & Operations/Operations Analyst.png (2.90 MB)
+[009/414] [COMPLETED] Production & Operations -> Maintenance Officer
+           File: images/Production & Operations/Maintenance Officer.png (2.95 MB)
+[010/414] [COMPLETED] Production & Operations -> Warehouse Manager
+           File: images/Production & Operations/Warehouse Manager.png (2.79 MB)
+[011/414] [COMPLETED] Supply Chain & Procurement -> Supply Chain Analyst
+           File: images/Supply Chain & Procurement/Supply Chain Analyst.png (2.66 MB)
+[012/414] [COMPLETED] Supply Chain & Procurement -> Vendor Coordinator
+           File: images/Supply Chain & Procurement/Vendor Coordinator.png (2.66 MB)
+[013/414] [COMPLETED] Supply Chain & Procurement -> Demand Planning Executive
+           File: images/Supply Chain & Procurement/Demand Planning Executive.png (2.65 MB)
+[014/414] [COMPLETED] Supply Chain & Procurement -> Distribution Coordinator
+           File: images/Supply Chain & Procurement/Distribution Coordinator.png (2.65 MB)
+[015/414] [COMPLETED] Commercial & Trade -> Trade Marketing Executive
+           File: images/Commercial & Trade/Trade Marketing Executive.png (2.67 MB)
+[016/414] [COMPLETED] Commercial & Trade -> Key Account Officer
+           File: images/Commercial & Trade/Key Account Officer.png (2.44 MB)
+[017/414] [COMPLETED] Commercial & Trade -> Trade Compliance Officer
+           File: images/Commercial & Trade/Trade Compliance Officer.png (2.59 MB)
+[018/414] [COMPLETED] Commercial & Trade -> Business Development Executive
+           File: images/Commercial & Trade/Business Development Executive.png (2.54 MB)
+[019/414] [COMPLETED] Research & Consultancy -> IT Consultant
+           File: images/Research & Consultancy/IT Consultant.png (2.17 MB)
+[020/414] [COMPLETED] Research & Consultancy -> Research Associate
+           File: images/Research & Consultancy/Research Associate.png (2.18 MB)
+[021/414] [COMPLETED] Research & Consultancy -> Risk Consultant
+           File: images/Research & Consultancy/Risk Consultant.png (2.20 MB)
+[022/414] [COMPLETED] Research & Consultancy -> Impact Assessment Specialist
+           File: images/Research & Consultancy/Impact Assessment Specialist.png (2.17 MB)
+[023/414] [COMPLETED] Education & Training -> Teacher
+           File: images/Education & Training/Teacher.png (2.09 MB)
+[024/414] [COMPLETED] Education & Training -> Academic Coordinator
+           File: images/Education & Training/Academic Coordinator.png (2.09 MB)
+[025/414] [COMPLETED] Education & Training -> Student Affairs Officer
+           File: images/Education & Training/Student Affairs Officer.png (2.32 MB)
+[026/414] [COMPLETED] Education & Training -> Academic counselor
+           File: images/Education & Training/Academic counselor.png (2.22 MB)
+[027/414] [COMPLETED] Education & Training -> Vocational Trainer
+           File: images/Education & Training/Vocational Trainer.png (2.34 MB)
+[028/414] [COMPLETED] Education & Training -> Students
+           File: images/Education & Training/Students.png (2.45 MB)
+[029/414] [COMPLETED] IT & Telecommunication -> Network Engineer
+           File: images/IT & Telecommunication/Network Engineer.png (2.21 MB)
+[030/414] [COMPLETED] IT & Telecommunication -> Software Engineer
+           File: images/IT & Telecommunication/Software Engineer.png (2.23 MB)
+[031/414] [COMPLETED] IT & Telecommunication -> Project Manager
+           File: images/IT & Telecommunication/Project Manager.png (2.19 MB)
+[032/414] [COMPLETED] IT & Telecommunication -> System Administrator
+           File: images/IT & Telecommunication/System Administrator.png (2.15 MB)
+[033/414] [COMPLETED] IT & Telecommunication -> SQA Engineer
+           File: images/IT & Telecommunication/SQA Engineer.png (2.19 MB)
+[034/414] [COMPLETED] IT & Telecommunication -> Cybersecurity Analyst
+           File: images/IT & Telecommunication/Cybersecurity Analyst.png (2.30 MB)
+[035/414] [COMPLETED] IT & Telecommunication -> 
+           File: images/IT & Telecommunication/untitled.png (2.27 MB)
+[036/414] [COMPLETED] Engineering & Architecture -> Civil Engineer
+           File: images/Engineering & Architecture/Civil Engineer.png (2.90 MB)
+[037/414] [COMPLETED] Engineering & Architecture -> Mechanical Engineer
+           File: images/Engineering & Architecture/Mechanical Engineer.png (2.83 MB)
+[038/414] [COMPLETED] Engineering & Architecture -> Interior Designer
+           File: images/Engineering & Architecture/Interior Designer.png (3.00 MB)
+[039/414] [COMPLETED] Engineering & Architecture -> Electrical Engineer
+           File: images/Engineering & Architecture/Electrical Engineer.png (3.04 MB)
+[040/414] [COMPLETED] Engineering & Architecture -> Environmental Engineer
+           File: images/Engineering & Architecture/Environmental Engineer.png (2.94 MB)
+[041/414] [COMPLETED] Engineering & Architecture -> Industrial Engineer
+           File: images/Engineering & Architecture/Industrial Engineer.png (2.87 MB)
+[042/414] [COMPLETED] Marketing & Sales -> Brand Manager
+           File: images/Marketing & Sales/Brand Manager.png (2.58 MB)
+[043/414] [COMPLETED] Marketing & Sales -> Sales Representative
+           File: images/Marketing & Sales/Sales Representative.png (2.49 MB)
+[044/414] [COMPLETED] Marketing & Sales -> Area Sales Manager
+           File: images/Marketing & Sales/Area Sales Manager.png (2.60 MB)
+[045/414] [COMPLETED] Marketing & Sales -> Social Media Executive
+           File: images/Marketing & Sales/Social Media Executive.png (2.74 MB)
+[046/414] [COMPLETED] Marketing & Sales -> Content Strategist
+           File: images/Marketing & Sales/Content Strategist.png (2.65 MB)
+[047/414] [COMPLETED] Marketing & Sales -> Marketing Analyst
+           File: images/Marketing & Sales/Marketing Analyst.png (2.59 MB)
+[048/414] [COMPLETED] Data Entry, BPO & IT-Enabled Services -> BPO Executive
+           File: images/Data Entry, BPO & IT-Enabled Services/BPO Executive.png (2.20 MB)
+[049/414] [COMPLETED] Data Entry, BPO & IT-Enabled Services -> Quality Analyst — BPO
+           File: images/Data Entry, BPO & IT-Enabled Services/Quality Analyst — BPO.png (2.41 MB)
+[050/414] [COMPLETED] Garments & Textile Industry -> Garment Production Executive
+           File: images/Garments & Textile Industry/Garment Production Executive.png (3.11 MB)
+[051/414] [COMPLETED] Garments & Textile Industry -> Production Supervisor
+           File: images/Garments & Textile Industry/Production Supervisor.png (3.03 MB)
+[052/414] [COMPLETED] Garments & Textile Industry -> Merchandiser
+           File: images/Garments & Textile Industry/Merchandiser.png (3.03 MB)
+[053/414] [COMPLETED] Garments & Textile Industry -> Quality Inspector
+           File: images/Garments & Textile Industry/Quality Inspector.png (3.19 MB)
+[054/414] [COMPLETED] Garments & Textile Industry -> Textile Engineer
+           File: images/Garments & Textile Industry/Textile Engineer.png (3.13 MB)
+[055/414] [COMPLETED] Garments & Textile Industry -> Fashion designer
+           File: images/Garments & Textile Industry/Fashion designer.png (3.15 MB)
+[056/414] [COMPLETED] Customer Service & Call Centre -> (All professions in this category were marked in red)
+           File: images/Customer Service & Call Centre/(All professions in this category were marked in red).png (2.72 MB)
+[057/414] [COMPLETED] Creative Design & Multimedia -> Graphic Designer
+           File: images/Creative Design & Multimedia/Graphic Designer.png (2.68 MB)
+[058/414] [COMPLETED] Creative Design & Multimedia -> UI/UX Designer
+           File: images/Creative Design & Multimedia/UI-UX Designer.png (2.66 MB)
+[059/414] [COMPLETED] Creative Design & Multimedia -> Video Editor
+           File: images/Creative Design & Multimedia/Video Editor.png (2.77 MB)
+[060/414] [COMPLETED] Creative Design & Multimedia -> Photographer
+           File: images/Creative Design & Multimedia/Photographer.png (2.87 MB)
+[061/414] [COMPLETED] Creative Design & Multimedia -> Digital Illustrator
+           File: images/Creative Design & Multimedia/Digital Illustrator.png (2.95 MB)
+[062/414] [COMPLETED] Creative Design & Multimedia -> 3D Animator
+           File: images/Creative Design & Multimedia/3D Animator.png (2.85 MB)
+[063/414] [COMPLETED] Human Resources & Organizational Development -> Training & Development Officer
+           File: images/Human Resources & Organizational Development/Training & Development Officer.png (2.71 MB)
+[064/414] [COMPLETED] Human Resources & Organizational Development -> HR Administrator
+           File: images/Human Resources & Organizational Development/HR Administrator.png (2.65 MB)
+[065/414] [COMPLETED] Media, Advertising & Event Management -> Content Creator
+           File: images/Media, Advertising & Event Management/Content Creator.png (2.85 MB)
+[066/414] [COMPLETED] Media, Advertising & Event Management -> Event Planner
+           File: images/Media, Advertising & Event Management/Event Planner.png (2.82 MB)
+[067/414] [COMPLETED] Media, Advertising & Event Management -> Advertising Executive
+           File: images/Media, Advertising & Event Management/Advertising Executive.png (2.68 MB)
+[068/414] [COMPLETED] Media, Advertising & Event Management -> Copywriter
+           File: images/Media, Advertising & Event Management/Copywriter.png (2.80 MB)
+[069/414] [COMPLETED] Agro & Allied Industries (Plant, Animal, Fisheries) -> Veterinary Officer
+           File: images/Agro & Allied Industries (Plant, Animal, Fisheries)/Veterinary Officer.png (3.10 MB)
+[070/414] [COMPLETED] Agro & Allied Industries (Plant, Animal, Fisheries) -> Farmer
+           File: images/Agro & Allied Industries (Plant, Animal, Fisheries)/Farmer.png (3.29 MB)
+[071/414] [COMPLETED] Agro & Allied Industries (Plant, Animal, Fisheries) -> Fisherman
+           File: images/Agro & Allied Industries (Plant, Animal, Fisheries)/Fisherman.png (2.99 MB)
+[072/414] [COMPLETED] Agro & Allied Industries (Plant, Animal, Fisheries) -> Poultry farmer
+           File: images/Agro & Allied Industries (Plant, Animal, Fisheries)/Poultry farmer.png (2.98 MB)
+[073/414] [COMPLETED] Agro & Allied Industries (Plant, Animal, Fisheries) -> Gardener
+           File: images/Agro & Allied Industries (Plant, Animal, Fisheries)/Gardener.png (3.33 MB)
+[074/414] [COMPLETED] Agro & Allied Industries (Plant, Animal, Fisheries) -> BeeKeeper
+           File: images/Agro & Allied Industries (Plant, Animal, Fisheries)/BeeKeeper.png (2.83 MB)
+[075/414] [COMPLETED] Banking & Non-Bank Financial Institutions -> Cashier
+           File: images/Banking & Non-Bank Financial Institutions/Cashier.png (2.49 MB)
+[076/414] [COMPLETED] Banking & Non-Bank Financial Institutions -> Relationship officer
+           File: images/Banking & Non-Bank Financial Institutions/Relationship officer.png (2.61 MB)
+[077/414] [COMPLETED] Banking & Non-Bank Financial Institutions -> Investment Analyst
+           File: images/Banking & Non-Bank Financial Institutions/Investment Analyst.png (2.37 MB)
+[078/414] [COMPLETED] Banking & Non-Bank Financial Institutions -> Customer Service Officer
+           File: images/Banking & Non-Bank Financial Institutions/Customer Service Officer.png (2.42 MB)
+[079/414] [COMPLETED] Hospitality, Travel & Tourism -> Receptionist
+           File: images/Hospitality, Travel & Tourism/Receptionist.png (2.60 MB)
+[080/414] [COMPLETED] Hospitality, Travel & Tourism -> Tourist Guide
+           File: images/Hospitality, Travel & Tourism/Tourist Guide.png (2.85 MB)
+[081/414] [COMPLETED] Hospitality, Travel & Tourism -> Housekeeping Worker
+           File: images/Hospitality, Travel & Tourism/Housekeeping Worker.png (2.72 MB)
+[082/414] [COMPLETED] Hospitality, Travel & Tourism -> Photographer
+           File: images/Hospitality, Travel & Tourism/Photographer.png (2.68 MB)
+[083/414] [COMPLETED] NGO & Development Sector -> Survey Worker
+           File: images/NGO & Development Sector/Survey Worker.png (2.75 MB)
+[084/414] [COMPLETED] NGO & Development Sector -> Field Officer
+           File: images/NGO & Development Sector/Field Officer.png (2.77 MB)
+[085/414] [COMPLETED] NGO & Development Sector -> Project Assistant
+           File: images/NGO & Development Sector/Project Assistant.png (2.85 MB)
+[086/414] [COMPLETED] NGO & Development Sector -> Women Empowerment Worker
+           File: images/NGO & Development Sector/Women Empowerment Worker.png (2.86 MB)
+[087/414] [COMPLETED] NGO & Development Sector -> Disaster Response Worker
+           File: images/NGO & Development Sector/Disaster Response Worker.png (2.63 MB)
+[088/414] [COMPLETED] NGO & Development Sector -> Child Protection Worker
+           File: images/NGO & Development Sector/Child Protection Worker.png (2.65 MB)
+[089/414] [COMPLETED] Security & Support Services -> Security Supervisor
+           File: images/Security & Support Services/Security Supervisor.png (2.63 MB)
+[090/414] [COMPLETED] Security & Support Services -> Security Manager
+           File: images/Security & Support Services/Security Manager.png (2.74 MB)
+[091/414] [COMPLETED] Security & Support Services -> Security Inspector
+           File: images/Security & Support Services/Security Inspector.png (2.58 MB)
+[092/414] [COMPLETED] Security & Support Services -> Cleaner
+           File: images/Security & Support Services/Cleaner.png (2.73 MB)
+[093/414] [COMPLETED] General Management & Administration -> General Manager
+           File: images/General Management & Administration/General Manager.png (2.45 MB)
+[094/414] [COMPLETED] Pharmaceutical & Biotech -> Medical Promotion Officer (MPO)
+           File: images/Pharmaceutical & Biotech/Medical Promotion Officer (MPO).png (2.61 MB)
+[095/414] [COMPLETED] Pharmaceutical & Biotech -> Production Officer
+           File: images/Pharmaceutical & Biotech/Production Officer.png (2.65 MB)
+[096/414] [COMPLETED] Pharmaceutical & Biotech -> Regulatory Affairs Executive
+           File: images/Pharmaceutical & Biotech/Regulatory Affairs Executive.png (2.67 MB)
+[097/414] [COMPLETED] Pharmaceutical & Biotech -> Research & Development Officer
+           File: images/Pharmaceutical & Biotech/Research & Development Officer.png (2.48 MB)
+[098/414] [COMPLETED] Law & Legal Services -> Advocate
+           File: images/Law & Legal Services/Advocate.png (2.67 MB)
+[099/414] [COMPLETED] Law & Legal Services -> Judge
+           File: images/Law & Legal Services/Judge.png (2.63 MB)
+[100/414] [COMPLETED] Law & Legal Services -> Legal Officer
+           File: images/Law & Legal Services/Legal Officer.png (2.65 MB)
+[101/414] [COMPLETED] Law & Legal Services -> Public Prosecutor
+           File: images/Law & Legal Services/Public Prosecutor.png (2.62 MB)
+[102/414] [COMPLETED] Law & Legal Services -> Notary Public
+           File: images/Law & Legal Services/Notary Public.png (2.61 MB)
+[103/414] [COMPLETED] Law & Legal Services -> Company Secretary
+           File: images/Law & Legal Services/Company Secretary.png (2.66 MB)
+[104/414] [COMPLETED] Healthcare & Medical Services -> Senior Staff Nurse
+           File: images/Healthcare & Medical Services/Senior Staff Nurse.png (2.62 MB)
+[105/414] [COMPLETED] Healthcare & Medical Services -> Medical Technologist
+           File: images/Healthcare & Medical Services/Medical Technologist.png (2.80 MB)
+[106/414] [COMPLETED] Healthcare & Medical Services -> Pharmacist
+           File: images/Healthcare & Medical Services/Pharmacist.png (2.65 MB)
+[107/414] [COMPLETED] Healthcare & Medical Services -> Dental Surgeon
+           File: images/Healthcare & Medical Services/Dental Surgeon.png (2.51 MB)
+[108/414] [COMPLETED] E-commerce & Digital Marketing -> Digital Marketing Executive
+           File: images/E-commerce & Digital Marketing/Digital Marketing Executive.png (2.58 MB)
+[109/414] [COMPLETED] E-commerce & Digital Marketing -> SEO Executive
+           File: images/E-commerce & Digital Marketing/SEO Executive.png (2.75 MB)
+[110/414] [COMPLETED] E-commerce & Digital Marketing -> Social Media Manager
+           File: images/E-commerce & Digital Marketing/Social Media Manager.png (2.69 MB)
+[111/414] [COMPLETED] E-commerce & Digital Marketing -> Content Writer
+           File: images/E-commerce & Digital Marketing/Content Writer.png (2.70 MB)
+[112/414] [COMPLETED] E-commerce & Digital Marketing -> E-commerce Manager
+           File: images/E-commerce & Digital Marketing/E-commerce Manager.png (2.80 MB)
+[113/414] [COMPLETED] E-commerce & Digital Marketing -> Performance Marketing Specialist
+           File: images/E-commerce & Digital Marketing/Performance Marketing Specialist.png (2.68 MB)
+[114/414] [COMPLETED] Company Secretary & Regulatory Affairs -> Head of Internal Audit and Compliance
+           File: images/Company Secretary & Regulatory Affairs/Head of Internal Audit and Compliance.png (2.67 MB)
+[115/414] [COMPLETED] Company Secretary & Regulatory Affairs -> Secretarial Auditor
+           File: images/Company Secretary & Regulatory Affairs/Secretarial Auditor.png (2.61 MB)
+[116/414] [COMPLETED] Data Entry & Computer Operations -> Computer Operator
+           File: images/Data Entry & Computer Operations/Computer Operator.png (2.54 MB)
+[117/414] [COMPLETED] Data Entry & Computer Operations -> Office Assistant Cum Computer Operator
+           File: images/Data Entry & Computer Operations/Office Assistant Cum Computer Operator.png (2.39 MB)
+[118/414] [COMPLETED] Data Entry & Computer Operations -> Typist
+           File: images/Data Entry & Computer Operations/Typist.png (2.55 MB)
+[119/414] [COMPLETED] Electrical & Electronics Services -> Electronics Technician
+           File: images/Electrical & Electronics Services/Electronics Technician.png (2.81 MB)
+[120/414] [COMPLETED] Electrical & Electronics Services -> Service Engineer
+           File: images/Electrical & Electronics Services/Service Engineer.png (2.91 MB)
+[121/414] [COMPLETED] Pathology & Laboratory Services -> Pathologist
+           File: images/Pathology & Laboratory Services/Pathologist.png (2.64 MB)
+[122/414] [COMPLETED] Pathology & Laboratory Services -> Phlebotomist
+           File: images/Pathology & Laboratory Services/Phlebotomist.png (2.62 MB)
+[123/414] [COMPLETED] Pathology & Laboratory Services -> Histotechnologist
+           File: images/Pathology & Laboratory Services/Histotechnologist.png (2.72 MB)
+[124/414] [COMPLETED] Pathology & Laboratory Services -> Biochemist
+           File: images/Pathology & Laboratory Services/Biochemist.png (2.73 MB)
+[125/414] [COMPLETED] Mechanic & Technical Repair Services -> Auto Mechanic
+           File: images/Mechanic & Technical Repair Services/Auto Mechanic.png (2.97 MB)
+[126/414] [COMPLETED] Mechanic & Technical Repair Services -> AC Technician
+           File: images/Mechanic & Technical Repair Services/AC Technician.png (3.02 MB)
+[127/414] [COMPLETED] Mechanic & Technical Repair Services -> Mobile Phone Technician
+           File: images/Mechanic & Technical Repair Services/Mobile Phone Technician.png (2.80 MB)
+[128/414] [COMPLETED] Mechanic & Technical Repair Services -> Auto Electrician
+           File: images/Mechanic & Technical Repair Services/Auto Electrician.png (2.92 MB)
+[129/414] [COMPLETED] Mechanic & Technical Repair Services -> Mechanical Technician
+           File: images/Mechanic & Technical Repair Services/Mechanical Technician.png (2.85 MB)
+[130/414] [COMPLETED] Mechanic & Technical Repair Services -> Electrician
+           File: images/Mechanic & Technical Repair Services/Electrician.png (3.09 MB)
+[131/414] [COMPLETED] Driving & Transportation Services -> Rickshaw Puller
+           File: images/Driving & Transportation Services/Rickshaw Puller.png (2.40 MB)
+[132/414] [COMPLETED] Driving & Transportation Services -> Bus Conductor
+           File: images/Driving & Transportation Services/Bus Conductor.png (2.23 MB)
+[133/414] [COMPLETED] Driving & Transportation Services -> Motor Mechanic
+           File: images/Driving & Transportation Services/Motor Mechanic.png (2.09 MB)
+[134/414] [COMPLETED] Security Guarding & Protection -> Security Supervisor
+           File: images/Security Guarding & Protection/Security Supervisor.png (2.17 MB)
+[135/414] [COMPLETED] Security Guarding & Protection -> CCTV Operator
+           File: images/Security Guarding & Protection/CCTV Operator.png (2.47 MB)
+[136/414] [COMPLETED] Security Guarding & Protection -> Security Inspector
+           File: images/Security Guarding & Protection/Security Inspector.png (2.20 MB)
+[137/414] [COMPLETED] Nursing & Patient Care -> Senior Staff Nurse
+           File: images/Nursing & Patient Care/Senior Staff Nurse.png (1.81 MB)
+[138/414] [COMPLETED] Nursing & Patient Care -> Midwife
+           File: images/Nursing & Patient Care/Midwife.png (1.90 MB)
+[139/414] [COMPLETED] Nursing & Patient Care -> Nursing Instructor
+           File: images/Nursing & Patient Care/Nursing Instructor.png (1.89 MB)
+[140/414] [COMPLETED] Nursing & Patient Care -> District Public Health Nurse
+           File: images/Nursing & Patient Care/District Public Health Nurse.png (1.87 MB)
+[141/414] [COMPLETED] Culinary & Chef Services -> Executive Chef
+           File: images/Culinary & Chef Services/Executive Chef.png (2.31 MB)
+[142/414] [COMPLETED] Culinary & Chef Services -> Sous Chef
+           File: images/Culinary & Chef Services/Sous Chef.png (2.36 MB)
+[143/414] [COMPLETED] Culinary & Chef Services -> Chef de Partie
+           File: images/Culinary & Chef Services/Chef de Partie.png (2.86 MB)
+[144/414] [COMPLETED] Culinary & Chef Services -> Pastry Chef
+           File: images/Culinary & Chef Services/Pastry Chef.png (2.34 MB)
+[145/414] [COMPLETED] Food & Beverage Services -> Waiter
+           File: images/Food & Beverage Services/Waiter.png (2.83 MB)
+[146/414] [COMPLETED] Food & Beverage Services -> Chef
+           File: images/Food & Beverage Services/Chef.png (2.41 MB)
+[147/414] [COMPLETED] Food & Beverage Services -> Bartender
+           File: images/Food & Beverage Services/Bartender.png (2.77 MB)
+[148/414] [COMPLETED] Food & Beverage Services -> Barista
+           File: images/Food & Beverage Services/Barista.png (2.93 MB)
+[149/414] [COMPLETED] Delivery & Courier Services -> Sorter
+           File: images/Delivery & Courier Services/Sorter.png (3.04 MB)
+[150/414] [COMPLETED] Delivery & Courier Services -> Dispatcher
+           File: images/Delivery & Courier Services/Dispatcher.png (2.96 MB)
+[151/414] [COMPLETED] Delivery & Courier Services -> Warehouse Executive
+           File: images/Delivery & Courier Services/Warehouse Executive.png (2.91 MB)
+[152/414] [COMPLETED] Delivery & Courier Services -> Branch In-Charge
+           File: images/Delivery & Courier Services/Branch In-Charge.png (2.99 MB)
+[153/414] [COMPLETED] Office Support & Messenger Services -> Receptionist
+           File: images/Office Support & Messenger Services/Receptionist.png (2.78 MB)
+[154/414] [COMPLETED] Office Support & Messenger Services -> Messenger
+           File: images/Office Support & Messenger Services/Messenger.png (2.67 MB)
+[155/414] [COMPLETED] Office Support & Messenger Services -> Personal Secretary
+           File: images/Office Support & Messenger Services/Personal Secretary.png (2.76 MB)
+[156/414] [COMPLETED] Showroom Sales & Assistance -> Showroom Manager
+           File: images/Showroom Sales & Assistance/Showroom Manager.png (2.82 MB)
+[157/414] [COMPLETED] Showroom Sales & Assistance -> Cashier
+           File: images/Showroom Sales & Assistance/Cashier.png (2.59 MB)
+[158/414] [COMPLETED] Showroom Sales & Assistance -> Visual Merchandiser
+           File: images/Showroom Sales & Assistance/Visual Merchandiser.png (2.78 MB)
+[159/414] [COMPLETED] Graphic Design Services -> Graphic Designer
+           File: images/Graphic Design Services/Graphic Designer.png (2.76 MB)
+[160/414] [COMPLETED] Graphic Design Services -> Motion Graphic Designer
+           File: images/Graphic Design Services/Motion Graphic Designer.png (2.92 MB)
+[161/414] [COMPLETED] Graphic Design Services -> Video Editor
+           File: images/Graphic Design Services/Video Editor.png (2.83 MB)
+[162/414] [COMPLETED] Graphic Design Services -> UI/UX Designer
+           File: images/Graphic Design Services/UI-UX Designer.png (2.77 MB)
+[163/414] [COMPLETED] Sales Representation & Business Development -> Sales Representative (Sales Performance Manager)
+           File: images/Sales Representation & Business Development/Sales Representative (Sales Performance Manager).png (2.76 MB)
+[164/414] [COMPLETED] Sales Representation & Business Development -> Sales Manager (Sales Management Dashboard)
+           File: images/Sales Representation & Business Development/Sales Manager (Sales Management Dashboard).png (2.65 MB)
+[165/414] [COMPLETED] Garment Technical & Machine Operation -> Garment Machine Operator (Machine Operations Tracker)
+           File: images/Garment Technical & Machine Operation/Garment Machine Operator (Machine Operations Tracker).png (3.08 MB)
+[166/414] [COMPLETED] Garment Technical & Machine Operation -> Industrial Engineering Technician (Garment IE Analytics)
+           File: images/Garment Technical & Machine Operation/Industrial Engineering Technician (Garment IE Analytics).png (3.21 MB)
+[167/414] [COMPLETED] Garment Technical & Machine Operation -> Cutting Machine Operator (Cutting Operations Manager)
+           File: images/Garment Technical & Machine Operation/Cutting Machine Operator (Cutting Operations Manager).png (3.06 MB)
+[168/414] [COMPLETED] Garment Technical & Machine Operation -> Embroidery Machine Operator (Embroidery Production Tracker)
+           File: images/Garment Technical & Machine Operation/Embroidery Machine Operator (Embroidery Production Tracker).png (3.17 MB)
+[169/414] [COMPLETED] CAD & Drafting Services -> Architectural Draftsman (Architectural Drafting Suite)
+           File: images/CAD & Drafting Services/Architectural Draftsman (Architectural Drafting Suite).png (2.86 MB)
+[170/414] [COMPLETED] CAD & Drafting Services -> Mechanical CAD Designer (Mechanical Design Manager)
+           File: images/CAD & Drafting Services/Mechanical CAD Designer (Mechanical Design Manager).png (2.83 MB)
+[171/414] [COMPLETED] CAD & Drafting Services -> Electrical CAD Designer (Electrical Design Manager)
+           File: images/CAD & Drafting Services/Electrical CAD Designer (Electrical Design Manager).png (2.75 MB)
+[172/414] [COMPLETED] CAD & Drafting Services -> Civil CAD Technician (Civil Drafting Manager)
+           File: images/CAD & Drafting Services/Civil CAD Technician (Civil Drafting Manager).png (2.77 MB)
+[173/414] [COMPLETED] Caregiving & Nanny Services -> Special Needs Caregiver (Special Care Management System)
+           File: images/Caregiving & Nanny Services/Special Needs Caregiver (Special Care Management System).png (2.57 MB)
+[174/414] [COMPLETED] Welding & Metal Fabrication -> Welding Inspector (Welding Inspection System)
+           File: images/Welding & Metal Fabrication/Welding Inspector (Welding Inspection System).png (3.01 MB)
+[175/414] [COMPLETED] Welding & Metal Fabrication -> Welding Supervisor (Welding Production Dashboard)
+           File: images/Welding & Metal Fabrication/Welding Supervisor (Welding Production Dashboard).png (2.87 MB)
+[176/414] [COMPLETED] Plumbing & Pipe Fitting Services -> Plumbing Supervisor (Plumbing Operations Dashboard)
+           File: images/Plumbing & Pipe Fitting Services/Plumbing Supervisor (Plumbing Operations Dashboard).png (2.84 MB)
+[177/414] [COMPLETED] Cleaning & Janitorial Services -> Industrial Cleaner (Industrial Cleaning Tracker)
+           File: images/Cleaning & Janitorial Services/Industrial Cleaner (Industrial Cleaning Tracker).png (2.75 MB)
+[178/414] [COMPLETED] Cleaning & Janitorial Services -> Carpet & Upholstery Cleaner (Specialized Cleaning Manager)
+           File: images/Cleaning & Janitorial Services/Carpet & Upholstery Cleaner (Specialized Cleaning Manager).png (2.72 MB)
+[179/414] [COMPLETED] Cleaning & Janitorial Services -> Cleaning Supervisor (Cleaning Operations Dashboard)
+           File: images/Cleaning & Janitorial Services/Cleaning Supervisor (Cleaning Operations Dashboard).png (2.86 MB)
+[180/414] [COMPLETED] Masonry & Construction Labour -> Concrete Worker (Concrete Work Manager)
+           File: images/Masonry & Construction Labour/Concrete Worker (Concrete Work Manager).png (2.92 MB)
+[181/414] [COMPLETED] Masonry & Construction Labour -> Construction Labourer (Construction Workforce Tracker)
+           File: images/Masonry & Construction Labour/Construction Labourer (Construction Workforce Tracker).png (2.82 MB)
+[182/414] [COMPLETED] Masonry & Construction Labour -> Tile Setter (Tiling Project Manager)
+           File: images/Masonry & Construction Labour/Tile Setter (Tiling Project Manager).png (2.79 MB)
+[183/414] [COMPLETED] Masonry & Construction Labour -> Construction Foreman (Construction Site Dashboard)
+           File: images/Masonry & Construction Labour/Construction Foreman (Construction Site Dashboard).png (2.76 MB)
+[184/414] [COMPLETED] Sewing & Apparel Manufacturing -> Tailor (Tailoring Management System)
+           File: images/Sewing & Apparel Manufacturing/Tailor (Tailoring Management System).png (3.10 MB)
+[185/414] [COMPLETED] Sewing & Apparel Manufacturing -> Pattern Maker (Pattern Design Manager)
+           File: images/Sewing & Apparel Manufacturing/Pattern Maker (Pattern Design Manager).png (3.10 MB)
+[186/414] [COMPLETED] Sewing & Apparel Manufacturing -> Apparel Production Supervisor (Apparel Production Dashboard)
+           File: images/Sewing & Apparel Manufacturing/Apparel Production Supervisor (Apparel Production Dashboard).png (3.09 MB)
+[187/414] [COMPLETED] Sewing & Apparel Manufacturing -> Garment Finishing Operator (Garment Finishing Tracker)
+           File: images/Sewing & Apparel Manufacturing/Garment Finishing Operator (Garment Finishing Tracker).png (3.05 MB)
+[188/414] [COMPLETED] Beauty & Salon Services -> Beautician (Beauty Service Manager)
+           File: images/Beauty & Salon Services/Beautician (Beauty Service Manager).png (2.89 MB)
+[189/414] [COMPLETED] Beauty & Salon Services -> Makeup Artist (Makeup Service Planner)
+           File: images/Beauty & Salon Services/Makeup Artist (Makeup Service Planner).png (2.91 MB)
+[190/414] [COMPLETED] Beauty & Salon Services -> Nail Technician (Nail Salon Manager)
+           File: images/Beauty & Salon Services/Nail Technician (Nail Salon Manager).png (2.98 MB)
+[191/414] [COMPLETED] Beauty & Salon Services -> Salon Manager (Salon Operations Dashboard)
+           File: images/Beauty & Salon Services/Salon Manager (Salon Operations Dashboard).png (2.82 MB)
+[192/414] [COMPLETED] Gardening & Landscaping Services -> Landscape Designer (Landscape Design Studio)
+           File: images/Gardening & Landscaping Services/Landscape Designer (Landscape Design Studio).png (3.09 MB)
+[193/414] [COMPLETED] Gardening & Landscaping Services -> Horticulture Technician (Horticulture Management System)
+           File: images/Gardening & Landscaping Services/Horticulture Technician (Horticulture Management System).png (3.06 MB)
+[194/414] [COMPLETED] Gardening & Landscaping Services -> Arborist (Tree Health Management System)
+           File: images/Gardening & Landscaping Services/Arborist (Tree Health Management System).png (3.21 MB)
+[195/414] [COMPLETED] Gardening & Landscaping Services -> Landscaping Supervisor (Landscape Operations Dashboard)
+           File: images/Gardening & Landscaping Services/Landscaping Supervisor (Landscape Operations Dashboard).png (3.01 MB)
+[196/414] [COMPLETED] Gym & Fitness Training -> Personal Trainer (Personal Training Manager)
+           File: images/Gym & Fitness Training/Personal Trainer (Personal Training Manager).png (2.72 MB)
+[197/414] [COMPLETED] Gym & Fitness Training -> Gym Manager (Gym Operations Dashboard)
+           File: images/Gym & Fitness Training/Gym Manager (Gym Operations Dashboard).png (2.56 MB)
+[198/414] [COMPLETED] Fire Safety & Firefighting Services -> Firefighter (Fire Response Management System)
+           File: images/Fire Safety & Firefighting Services/Firefighter (Fire Response Management System).png (2.86 MB)
+[199/414] [COMPLETED] Fire Safety & Firefighting Services -> Fire Safety Inspector (Fire Inspection Dashboard)
+           File: images/Fire Safety & Firefighting Services/Fire Safety Inspector (Fire Inspection Dashboard).png (2.33 MB)
+[200/414] [COMPLETED] Religious & Spiritual Services -> Muezzin (Prayer Operations Manager)
+           File: images/Religious & Spiritual Services/Muezzin (Prayer Operations Manager).png (2.35 MB)
+[201/414] [COMPLETED] Religious & Spiritual Services -> Islamic Scholar (Islamic Knowledge Platform)
+           File: images/Religious & Spiritual Services/Islamic Scholar (Islamic Knowledge Platform).png (2.44 MB)
+[202/414] [COMPLETED] Physiotherapy & Rehabilitation -> Occupational Therapist (Occupational Therapy Manager)
+           File: images/Physiotherapy & Rehabilitation/Occupational Therapist (Occupational Therapy Manager).png (2.04 MB)
+[203/414] [COMPLETED] Physiotherapy & Rehabilitation -> Physical Rehabilitation Assistant (Rehab Support Tracker)
+           File: images/Physiotherapy & Rehabilitation/Physical Rehabilitation Assistant (Rehab Support Tracker).png (2.38 MB)
+[204/414] [COMPLETED] Physiotherapy & Rehabilitation -> Physiotherapy Clinic Manager (Physio Clinic Dashboard)
+           File: images/Physiotherapy & Rehabilitation/Physiotherapy Clinic Manager (Physio Clinic Dashboard).png (2.14 MB)
+[205/414] [COMPLETED] Boiler & Steam Plant Operations -> Steam Engineer (Steam Engineering Dashboard)
+           File: images/Boiler & Steam Plant Operations/Steam Engineer (Steam Engineering Dashboard).png (2.37 MB)
+[206/414] [COMPLETED] Boiler & Steam Plant Operations -> Boiler Plant Supervisor (Boiler Plant Operations Manager)
+           File: images/Boiler & Steam Plant Operations/Boiler Plant Supervisor (Boiler Plant Operations Manager).png (2.36 MB)
+[207/414] [COMPLETED] Carpentry & Joinery Services -> Woodworking Technician (Woodworking Operations Tracker)
+           File: images/Carpentry & Joinery Services/Woodworking Technician (Woodworking Operations Tracker).png (2.52 MB)
+[208/414] [COMPLETED] Carpentry & Joinery Services -> Carpentry Supervisor (Carpentry Operations Dashboard)
+           File: images/Carpentry & Joinery Services/Carpentry Supervisor (Carpentry Operations Dashboard).png (2.55 MB)
+[209/414] [COMPLETED] Agricultural Machinery & Equipment -> Irrigation Equipment Technician (Irrigation Equipment Manager)
+           File: images/Agricultural Machinery & Equipment/Irrigation Equipment Technician (Irrigation Equipment Manager).png (2.72 MB)
+[210/414] [COMPLETED] Agricultural Machinery & Equipment -> Agricultural Machinery Supervisor (Farm Equipment Operations Dashboard)
+           File: images/Agricultural Machinery & Equipment/Agricultural Machinery Supervisor (Farm Equipment Operations Dashboard).png (2.68 MB)
+[211/414] [COMPLETED] Fertilizer & Agrochemical Industry -> Soil Scientist (Soil Health Analyzer)
+           File: images/Fertilizer & Agrochemical Industry/Soil Scientist (Soil Health Analyzer).png (2.74 MB)
+[212/414] [COMPLETED] Fertilizer & Agrochemical Industry -> Formulation Chemist (Formulation Lab Manager)
+           File: images/Fertilizer & Agrochemical Industry/Formulation Chemist (Formulation Lab Manager).png (2.78 MB)
+[213/414] [COMPLETED] Fertilizer & Agrochemical Industry -> Field Sales Rep (Agro Dealer CRM)
+           File: images/Fertilizer & Agrochemical Industry/Field Sales Rep (Agro Dealer CRM).png (2.79 MB)
+[214/414] [COMPLETED] Fertilizer & Agrochemical Industry -> Quality Control Analyst (QC Lab Tracker)
+           File: images/Fertilizer & Agrochemical Industry/Quality Control Analyst (QC Lab Tracker).png (2.21 MB)
+[215/414] [COMPLETED] Seeds & Plant Biotechnology -> Plant Breeder (Breeding Program Manager)
+           File: images/Seeds & Plant Biotechnology/Plant Breeder (Breeding Program Manager).png (2.19 MB)
+[216/414] [COMPLETED] Seeds & Plant Biotechnology -> Molecular Biologist (Genomics Data Platform)
+           File: images/Seeds & Plant Biotechnology/Molecular Biologist (Genomics Data Platform).png (2.26 MB)
+[217/414] [COMPLETED] Seeds & Plant Biotechnology -> Seed Production Manager (Seed Production Planner)
+           File: images/Seeds & Plant Biotechnology/Seed Production Manager (Seed Production Planner).png (2.39 MB)
+[218/414] [COMPLETED] Seeds & Plant Biotechnology -> Tissue Culture Technician (Tissue Culture Lab Tracker)
+           File: images/Seeds & Plant Biotechnology/Tissue Culture Technician (Tissue Culture Lab Tracker).png (2.45 MB)
+[219/414] [COMPLETED] Seeds & Plant Biotechnology -> Seed Quality Analyst (Seed Testing Suite)
+           File: images/Seeds & Plant Biotechnology/Seed Quality Analyst (Seed Testing Suite).png (2.48 MB)
+[220/414] [COMPLETED] Seeds & Plant Biotechnology -> Field Trial Coordinator (Trial Management System)
+           File: images/Seeds & Plant Biotechnology/Field Trial Coordinator (Trial Management System).png (2.52 MB)
+[221/414] [COMPLETED] Aquaculture & Fish Farming -> Fish Health Veterinarian (Aquatic Health Monitor)
+           File: images/Aquaculture & Fish Farming/Fish Health Veterinarian (Aquatic Health Monitor).png (2.63 MB)
+[222/414] [COMPLETED] Aquaculture & Fish Farming -> Water Quality Technician (Water Quality Sensor Hub)
+           File: images/Aquaculture & Fish Farming/Water Quality Technician (Water Quality Sensor Hub).png (2.70 MB)
+[223/414] [COMPLETED] Aquaculture & Fish Farming -> Feed Nutritionist (Feed Formulation Tool)
+           File: images/Aquaculture & Fish Farming/Feed Nutritionist (Feed Formulation Tool).png (2.71 MB)
+[224/414] [COMPLETED] Aquaculture & Fish Farming -> Sales & Distribution Manager (Aqua Trade Manager)
+           File: images/Aquaculture & Fish Farming/Sales & Distribution Manager (Aqua Trade Manager).png (2.71 MB)
+[225/414] [COMPLETED] Livestock & Dairy Farming -> Veterinarian (Livestock Health Records System)
+           File: images/Livestock & Dairy Farming/Veterinarian (Livestock Health Records System).png (2.82 MB)
+[226/414] [COMPLETED] Livestock & Dairy Farming -> Herd Nutritionist (Ration Formulation Tool)
+           File: images/Livestock & Dairy Farming/Herd Nutritionist (Ration Formulation Tool).png (2.85 MB)
+[227/414] [COMPLETED] Livestock & Dairy Farming -> Breeding/AI Technician (Breeding Records Manager)
+           File: images/Livestock & Dairy Farming/Breeding-AI Technician (Breeding Records Manager).png (2.93 MB)
+[228/414] [COMPLETED] Livestock & Dairy Farming -> Livestock Sales & Auction Manager (Livestock Trade Platform)
+           File: images/Livestock & Dairy Farming/Livestock Sales & Auction Manager (Livestock Trade Platform).png (2.98 MB)
+[229/414] [COMPLETED] Forestry & Timber -> Sawmill Operations Manager (Sawmill Production Dashboard)
+           File: images/Forestry & Timber/Sawmill Operations Manager (Sawmill Production Dashboard).png (2.95 MB)
+[230/414] [COMPLETED] Forestry & Timber -> Forest Ecologist (Ecosystem Monitoring Tool)
+           File: images/Forestry & Timber/Forest Ecologist (Ecosystem Monitoring Tool).png (2.98 MB)
+[231/414] [COMPLETED] Forestry & Timber -> Timber Sales/Procurement Manager (Timber Trade Manager)
+           File: images/Forestry & Timber/Timber Sales-Procurement Manager (Timber Trade Manager).png (3.01 MB)
+[232/414] [COMPLETED] Forestry & Timber -> Forest Fire Management Officer (Fire Risk & Response System)
+           File: images/Forestry & Timber/Forest Fire Management Officer (Fire Risk & Response System).png (3.04 MB)
+[233/414] [COMPLETED] Mining & Mineral Extraction -> Mining Engineer (Mine Planning Suite)
+           File: images/Mining & Mineral Extraction/Mining Engineer (Mine Planning Suite).png (2.54 MB)
+[234/414] [COMPLETED] Mining & Mineral Extraction -> Geologist (Geological Data Platform)
+           File: images/Mining & Mineral Extraction/Geologist (Geological Data Platform).png (2.47 MB)
+[235/414] [COMPLETED] Mining & Mineral Extraction -> Mine Safety Officer (Safety Compliance Tracker)
+           File: images/Mining & Mineral Extraction/Mine Safety Officer (Safety Compliance Tracker).png (2.51 MB)
+[236/414] [COMPLETED] Mining & Mineral Extraction -> Equipment Maintenance Manager (Fleet Maintenance Manager)
+           File: images/Mining & Mineral Extraction/Equipment Maintenance Manager (Fleet Maintenance Manager).png (2.49 MB)
+[237/414] [COMPLETED] Mining & Mineral Extraction -> Mineral Processing Engineer (Plant Process Optimizer)
+           File: images/Mining & Mineral Extraction/Mineral Processing Engineer (Plant Process Optimizer).png (2.55 MB)
+[238/414] [COMPLETED] Mining & Mineral Extraction -> Mine Surveyor (Survey & Volumetrics Tool)
+           File: images/Mining & Mineral Extraction/Mine Surveyor (Survey & Volumetrics Tool).png (2.58 MB)
+[239/414] [COMPLETED] Oil & Gas Exploration & Production -> Petroleum Engineer (Well Performance Dashboard)
+           File: images/Oil & Gas Exploration & Production/Petroleum Engineer (Well Performance Dashboard).png (2.63 MB)
+[240/414] [COMPLETED] Oil & Gas Exploration & Production -> Geophysicist (Seismic Data Interpretation Suite)
+           File: images/Oil & Gas Exploration & Production/Geophysicist (Seismic Data Interpretation Suite).png (2.65 MB)
+[241/414] [COMPLETED] Oil & Gas Exploration & Production -> Drilling Supervisor (Drilling Operations Manager)
+           File: images/Oil & Gas Exploration & Production/Drilling Supervisor (Drilling Operations Manager).png (2.76 MB)
+[242/414] [COMPLETED] Oil & Gas Exploration & Production -> Reservoir Engineer (Reservoir Simulation Tool)
+           File: images/Oil & Gas Exploration & Production/Reservoir Engineer (Reservoir Simulation Tool).png (2.75 MB)
+[243/414] [COMPLETED] Oil & Gas Exploration & Production -> HSE Officer (HSE Compliance Platform)
+           File: images/Oil & Gas Exploration & Production/HSE Officer (HSE Compliance Platform).png (2.81 MB)
+[244/414] [COMPLETED] Oil & Gas Exploration & Production -> Production Operations Manager (Production Operations Center)
+           File: images/Oil & Gas Exploration & Production/Production Operations Manager (Production Operations Center).png (2.55 MB)
+[245/414] [COMPLETED] Petrochemicals & Refining -> Process Engineer (Process Optimization Suite)
+           File: images/Petrochemicals & Refining/Process Engineer (Process Optimization Suite).png (2.60 MB)
+[246/414] [COMPLETED] Petrochemicals & Refining -> Refinery Operations Manager (Refinery Operations Center)
+           File: images/Petrochemicals & Refining/Refinery Operations Manager (Refinery Operations Center).png (2.62 MB)
+[247/414] [COMPLETED] Petrochemicals & Refining -> Quality Control Chemist (Lab Quality Management System)
+           File: images/Petrochemicals & Refining/Quality Control Chemist (Lab Quality Management System).png (2.65 MB)
+[248/414] [COMPLETED] Petrochemicals & Refining -> Maintenance & Reliability Engineer (Reliability Management Tool)
+           File: images/Petrochemicals & Refining/Maintenance & Reliability Engineer (Reliability Management Tool).png (2.68 MB)
+[249/414] [COMPLETED] Petrochemicals & Refining -> HSE Manager (HSE Command Center)
+           File: images/Petrochemicals & Refining/HSE Manager (HSE Command Center).png (2.73 MB)
+[250/414] [COMPLETED] Petrochemicals & Refining -> Supply Chain/Logistics Coordinator (Petrochem Logistics Manager)
+           File: images/Petrochemicals & Refining/Supply Chain-Logistics Coordinator (Petrochem Logistics Manager).png (2.78 MB)
+[251/414] [COMPLETED] Renewable Energy Generation -> Solar/Wind Plant Engineer (Plant Performance Dashboard)
+           File: images/Renewable Energy Generation/Solar-Wind Plant Engineer (Plant Performance Dashboard).png (2.88 MB)
+[252/414] [COMPLETED] Renewable Energy Generation -> Energy Analyst (Energy Yield Analytics Tool)
+           File: images/Renewable Energy Generation/Energy Analyst (Energy Yield Analytics Tool).png (2.89 MB)
+[253/414] [COMPLETED] Renewable Energy Generation -> O&M Technician (O&M Task Manager)
+           File: images/Renewable Energy Generation/O&M Technician (O&M Task Manager).png (2.94 MB)
+[254/414] [COMPLETED] Renewable Energy Generation -> Project Development Manager (Project Development Tracker)
+           File: images/Renewable Energy Generation/Project Development Manager (Project Development Tracker).png (2.62 MB)
+[255/414] [COMPLETED] Renewable Energy Generation -> Grid Integration Engineer (Grid Integration Monitor)
+           File: images/Renewable Energy Generation/Grid Integration Engineer (Grid Integration Monitor).png (2.65 MB)
+[256/414] [COMPLETED] Renewable Energy Generation -> Environmental Compliance Officer (Environmental Compliance Tracker)
+           File: images/Renewable Energy Generation/Environmental Compliance Officer (Environmental Compliance Tracker).png (2.70 MB)
+[257/414] [COMPLETED] Power Transmission & Distribution -> Transmission Engineer (Transmission Asset Manager)
+           File: images/Power Transmission & Distribution/Transmission Engineer (Transmission Asset Manager).png (2.71 MB)
+[258/414] [COMPLETED] Power Transmission & Distribution -> Substation Maintenance Technician (Substation Maintenance Tracker)
+           File: images/Power Transmission & Distribution/Substation Maintenance Technician (Substation Maintenance Tracker).png (2.75 MB)
+[259/414] [COMPLETED] Power Transmission & Distribution -> Metering & Billing Analyst (Smart Metering & Billing Platform)
+           File: images/Power Transmission & Distribution/Metering & Billing Analyst (Smart Metering & Billing Platform).png (2.80 MB)
+[260/414] [COMPLETED] Power Transmission & Distribution -> Outage Management Coordinator (Outage Management System)
+           File: images/Power Transmission & Distribution/Outage Management Coordinator (Outage Management System).png (2.85 MB)
+[261/414] [COMPLETED] Water Treatment & Supply -> Water Treatment Plant Operator (Treatment Plant Control Dashboard)
+           File: images/Water Treatment & Supply/Water Treatment Plant Operator (Treatment Plant Control Dashboard).png (2.94 MB)
+[262/414] [COMPLETED] Water Treatment & Supply -> Water Quality Analyst (Water Quality Testing System)
+           File: images/Water Treatment & Supply/Water Quality Analyst (Water Quality Testing System).png (3.01 MB)
+[263/414] [COMPLETED] Water Treatment & Supply -> Distribution Network Engineer (Water Network Manager)
+           File: images/Water Treatment & Supply/Distribution Network Engineer (Water Network Manager).png (3.05 MB)
+[264/414] [COMPLETED] Water Treatment & Supply -> Environmental Compliance Officer (Compliance Tracking Tool)
+           File: images/Water Treatment & Supply/Environmental Compliance Officer (Compliance Tracking Tool).png (2.88 MB)
+[265/414] [COMPLETED] Water Treatment & Supply -> Utility Billing Manager (Water Billing Platform)
+           File: images/Water Treatment & Supply/Utility Billing Manager (Water Billing Platform).png (2.81 MB)
+[266/414] [COMPLETED] Water Treatment & Supply -> Field Maintenance Technician (Field Service Manager)
+           File: images/Water Treatment & Supply/Field Maintenance Technician (Field Service Manager).png (2.86 MB)
+[267/414] [COMPLETED] Waste Management & Recycling -> Recycling Facility Manager (MRF Operations Manager)
+           File: images/Waste Management & Recycling/Recycling Facility Manager (MRF Operations Manager).png (2.93 MB)
+[268/414] [COMPLETED] Waste Management & Recycling -> Environmental Compliance Officer (Waste Compliance Tracker)
+           File: images/Waste Management & Recycling/Environmental Compliance Officer (Waste Compliance Tracker).png (2.96 MB)
+[269/414] [COMPLETED] Waste Management & Recycling -> Materials Recovery Technician (Materials Recovery Tracker)
+           File: images/Waste Management & Recycling/Materials Recovery Technician (Materials Recovery Tracker).png (2.98 MB)
+[270/414] [COMPLETED] Waste Management & Recycling -> Sustainability & Client Relations Manager (Client Sustainability Portal)
+           File: images/Waste Management & Recycling/Sustainability & Client Relations Manager (Client Sustainability Portal).png (2.40 MB)
+[271/414] [COMPLETED] Environmental Consulting & Services -> Air Quality Analyst (Air Quality Monitoring Platform)
+           File: images/Environmental Consulting & Services/Air Quality Analyst (Air Quality Monitoring Platform).png (2.67 MB)
+[272/414] [COMPLETED] Environmental Consulting & Services -> Contaminated Land/Remediation Specialist (Site Remediation Tracker)
+           File: images/Environmental Consulting & Services/Contaminated Land-Remediation Specialist (Site Remediation Tracker).png (2.71 MB)
+[273/414] [COMPLETED] Environmental Consulting & Services -> Compliance Auditor (Compliance Audit Suite)
+           File: images/Environmental Consulting & Services/Compliance Auditor (Compliance Audit Suite).png (2.83 MB)
+[274/414] [COMPLETED] Environmental Consulting & Services -> GIS Analyst (Environmental GIS Platform)
+           File: images/Environmental Consulting & Services/GIS Analyst (Environmental GIS Platform).png (2.71 MB)
+[275/414] [COMPLETED] Construction Materials Manufacturing -> Plant Production Manager (Production Control Dashboard)
+           File: images/Construction Materials Manufacturing/Plant Production Manager (Production Control Dashboard).png (3.02 MB)
+[276/414] [COMPLETED] Construction Materials Manufacturing -> Quality Control Engineer (Materials QC System)
+           File: images/Construction Materials Manufacturing/Quality Control Engineer (Materials QC System).png (3.05 MB)
+[277/414] [COMPLETED] Construction Materials Manufacturing -> Process/Mix Design Engineer (Mix Design Optimizer)
+           File: images/Construction Materials Manufacturing/Process-Mix Design Engineer (Mix Design Optimizer).png (2.96 MB)
+[278/414] [COMPLETED] Construction Materials Manufacturing -> Maintenance Engineer (Plant Maintenance Manager)
+           File: images/Construction Materials Manufacturing/Maintenance Engineer (Plant Maintenance Manager).png (2.88 MB)
+[279/414] [COMPLETED] Construction Materials Manufacturing -> Logistics/Dispatch Manager (Dispatch & Fleet Manager)
+           File: images/Construction Materials Manufacturing/Logistics-Dispatch Manager (Dispatch & Fleet Manager).png (2.90 MB)
+[280/414] [COMPLETED] Construction Materials Manufacturing -> Sales & Estimation Manager (Sales Estimation Tool)
+           File: images/Construction Materials Manufacturing/Sales & Estimation Manager (Sales Estimation Tool).png (2.85 MB)
+[281/414] [COMPLETED] Real Estate Development & Property -> Land Acquisition Manager (Land Acquisition Manager Tool)
+           File: images/Real Estate Development & Property/Land Acquisition Manager (Land Acquisition Manager Tool).png (2.77 MB)
+[282/414] [COMPLETED] Real Estate Development & Property -> Sales & Marketing Manager (Property Sales CRM)
+           File: images/Real Estate Development & Property/Sales & Marketing Manager (Property Sales CRM).png (2.66 MB)
+[283/414] [COMPLETED] Real Estate Development & Property -> Financial Analyst (Real Estate Financial Model Tool)
+           File: images/Real Estate Development & Property/Financial Analyst (Real Estate Financial Model Tool).png (2.62 MB)
+[284/414] [COMPLETED] Real Estate Development & Property -> Legal/Compliance Manager (Compliance & Documentation Tracker)
+           File: images/Real Estate Development & Property/Legal-Compliance Manager (Compliance & Documentation Tracker).png (2.53 MB)
+[285/414] [COMPLETED] Property Management & Leasing -> Leasing Agent (Leasing CRM)
+           File: images/Property Management & Leasing/Leasing Agent (Leasing CRM).png (2.42 MB)
+[286/414] [COMPLETED] Property Management & Leasing -> Maintenance Coordinator (Maintenance Request Manager)
+           File: images/Property Management & Leasing/Maintenance Coordinator (Maintenance Request Manager).png (2.56 MB)
+[287/414] [COMPLETED] Property Management & Leasing -> Facilities/Building Engineer (Facilities Management System)
+           File: images/Property Management & Leasing/Facilities-Building Engineer (Facilities Management System).png (2.55 MB)
+[288/414] [COMPLETED] Property Management & Leasing -> Accounts/Rent Collection Manager (Rent Collection Manager)
+           File: images/Property Management & Leasing/Accounts-Rent Collection Manager (Rent Collection Manager).png (2.63 MB)
+[289/414] [COMPLETED] Architecture & Interior Design -> Architect (Design Project Studio)
+           File: images/Architecture & Interior Design/Architect (Design Project Studio).png (2.76 MB)
+[290/414] [COMPLETED] Architecture & Interior Design -> Interior Designer (Interior Design Visualizer)
+           File: images/Architecture & Interior Design/Interior Designer (Interior Design Visualizer).png (2.68 MB)
+[291/414] [COMPLETED] Architecture & Interior Design -> Design Project Coordinator (Project Coordination Tool)
+           File: images/Architecture & Interior Design/Design Project Coordinator (Project Coordination Tool).png (2.44 MB)
+[292/414] [COMPLETED] Architecture & Interior Design -> BIM/CAD Specialist (BIM Model Manager)
+           File: images/Architecture & Interior Design/BIM-CAD Specialist (BIM Model Manager).png (2.44 MB)
+[293/414] [COMPLETED] Architecture & Interior Design -> Sustainability/Green Building Consultant (Green Building Assessment Tool)
+           File: images/Architecture & Interior Design/Sustainability-Green Building Consultant (Green Building Assessment Tool).png (2.60 MB)
+[294/414] [COMPLETED] Architecture & Interior Design -> Client Relations & Sales Manager (Design Firm CRM)
+           File: images/Architecture & Interior Design/Client Relations & Sales Manager (Design Firm CRM).png (2.36 MB)
+[295/414] [COMPLETED] Urban & Regional Planning -> Urban Planner (Urban Planning Platform)
+           File: images/Urban & Regional Planning/Urban Planner (Urban Planning Platform).png (3.12 MB)
+[296/414] [COMPLETED] Urban & Regional Planning -> GIS Analyst (Planning GIS Suite)
+           File: images/Urban & Regional Planning/GIS Analyst (Planning GIS Suite).png (3.10 MB)
+[297/414] [COMPLETED] Urban & Regional Planning -> Transportation Planner (Transportation Planning Tool)
+           File: images/Urban & Regional Planning/Transportation Planner (Transportation Planning Tool).png (3.07 MB)
+[298/414] [COMPLETED] Urban & Regional Planning -> Community Engagement Coordinator (Community Engagement Platform)
+           File: images/Urban & Regional Planning/Community Engagement Coordinator (Community Engagement Platform).png (2.94 MB)
+[299/414] [COMPLETED] Urban & Regional Planning -> Policy Analyst (Policy Research & Tracking Tool)
+           File: images/Urban & Regional Planning/Policy Analyst (Policy Research & Tracking Tool).png (3.05 MB)
+[300/414] [COMPLETED] Urban & Regional Planning -> Land Use/Zoning Officer (Zoning Permit Manager)
+           File: images/Urban & Regional Planning/Land Use-Zoning Officer (Zoning Permit Manager).png (3.07 MB)
+[301/414] [COMPLETED] Civil Engineering & Infrastructure -> Civil Engineer (Infrastructure Design Suite)
+           File: images/Civil Engineering & Infrastructure/Civil Engineer (Infrastructure Design Suite).png (2.74 MB)
+[302/414] [COMPLETED] Civil Engineering & Infrastructure -> Structural Engineer (Structural Analysis Tool)
+           File: images/Civil Engineering & Infrastructure/Structural Engineer (Structural Analysis Tool).png (3.10 MB)
+[303/414] [COMPLETED] Civil Engineering & Infrastructure -> Site Supervisor/Construction Manager (Construction Site Manager)
+           File: images/Civil Engineering & Infrastructure/Site Supervisor-Construction Manager (Construction Site Manager).png (2.99 MB)
+[304/414] [COMPLETED] Civil Engineering & Infrastructure -> Surveyor (Survey Data Manager)
+           File: images/Civil Engineering & Infrastructure/Surveyor (Survey Data Manager).png (3.26 MB)
+[305/414] [COMPLETED] Civil Engineering & Infrastructure -> Geotechnical Engineer (Geotechnical Analysis Tool)
+           File: images/Civil Engineering & Infrastructure/Geotechnical Engineer (Geotechnical Analysis Tool).png (3.20 MB)
+[306/414] [COMPLETED] Civil Engineering & Infrastructure -> Infrastructure Asset Manager (Asset Lifecycle Manager)
+           File: images/Civil Engineering & Infrastructure/Infrastructure Asset Manager (Asset Lifecycle Manager).png (2.98 MB)
+[307/414] [COMPLETED] HVAC & Refrigeration Services -> HVAC Design Engineer (HVAC Design Tool)
+           File: images/HVAC & Refrigeration Services/HVAC Design Engineer (HVAC Design Tool).png (2.75 MB)
+[308/414] [COMPLETED] HVAC & Refrigeration Services -> Service/Dispatch Manager (Dispatch Management System)
+           File: images/HVAC & Refrigeration Services/Service-Dispatch Manager (Dispatch Management System).png (3.15 MB)
+[309/414] [COMPLETED] HVAC & Refrigeration Services -> Energy Efficiency Consultant (Energy Audit Tool)
+           File: images/HVAC & Refrigeration Services/Energy Efficiency Consultant (Energy Audit Tool).png (3.44 MB)
+[310/414] [COMPLETED] HVAC & Refrigeration Services -> Sales & Estimation Specialist (HVAC Sales Estimator)
+           File: images/HVAC & Refrigeration Services/Sales & Estimation Specialist (HVAC Sales Estimator).png (3.08 MB)
+[312/414] [COMPLETED] Fire Protection Systems Installation -> Field Acceptance Testing Technician
+           File: images/Fire Protection Systems Installation/Field Acceptance Testing Technician.png (3.16 MB)
+[313/414] [COMPLETED] Fire Protection Systems Installation -> Commercial Facility Fire Safety Director
+           File: images/Fire Protection Systems Installation/Commercial Facility Fire Safety Director.png (2.80 MB)
+[314/414] [COMPLETED] Fire Protection Systems Installation -> Special Hazards Suppression Technician
+           File: images/Fire Protection Systems Installation/Special Hazards Suppression Technician.png (2.93 MB)
+[315/414] [COMPLETED] Fire Protection Systems Installation -> Fire Alarm Systems Integrator
+           File: images/Fire Protection Systems Installation/Fire Alarm Systems Integrator.png (3.14 MB)
+[316/414] [COMPLETED] Fire Protection Systems Installation -> Insurance Loss Prevention Engineer
+           File: images/Fire Protection Systems Installation/Insurance Loss Prevention Engineer.png (3.24 MB)
+[317/414] [COMPLETED] Elevator & Escalator Services -> Vertical Transportation Design Engineer
+           File: images/Elevator & Escalator Services/Vertical Transportation Design Engineer.png (3.24 MB)
+[318/414] [COMPLETED] Elevator & Escalator Services -> Lift Safety Inspector
+           File: images/Elevator & Escalator Services/Lift Safety Inspector.png (3.01 MB)
+[319/414] [COMPLETED] Elevator & Escalator Services -> Elevator Installation Project Manager
+           File: images/Elevator & Escalator Services/Elevator Installation Project Manager.png (2.84 MB)
+[320/414] [COMPLETED] Elevator & Escalator Services -> Elevator Parts & Procurement Manager
+           File: images/Elevator & Escalator Services/Elevator Parts & Procurement Manager.png (3.08 MB)
+[321/414] [COMPLETED] Painting & Coating Contracting -> Industrial Spray Rig Mechanic
+           File: images/Painting & Coating Contracting/Industrial Spray Rig Mechanic.png (2.74 MB)
+[322/414] [COMPLETED] Painting & Coating Contracting -> Floor Epoxy & Resin Systems Installer
+           File: images/Painting & Coating Contracting/Floor Epoxy & Resin Systems Installer.png (2.85 MB)
+[323/414] [COMPLETED] Painting & Coating Contracting -> Painting Project Manager
+           File: images/Painting & Coating Contracting/Painting Project Manager.png (2.97 MB)
+[324/414] [COMPLETED] Painting & Coating Contracting -> Color & Finish Consultant
+           File: images/Painting & Coating Contracting/Color & Finish Consultant.png (3.08 MB)
+[325/414] [COMPLETED] Painting & Coating Contracting -> Industrial Coating Specification Engineer
+           File: images/Painting & Coating Contracting/Industrial Coating Specification Engineer.png (3.17 MB)
+[326/414] [COMPLETED] Painting & Coating Contracting -> Paint & Materials Procurement Manager
+           File: images/Painting & Coating Contracting/Paint & Materials Procurement Manager.png (3.00 MB)
+[327/414] [COMPLETED] Glass & Glazing Services -> Architectural Glass Designer
+           File: images/Glass & Glazing Services/Architectural Glass Designer.png (3.07 MB)
+[328/414] [COMPLETED] Glass & Glazing Services -> Automated Glass Cutting Machine Operator
+           File: images/Glass & Glazing Services/Automated Glass Cutting Machine Operator.png (2.99 MB)
+[329/414] [COMPLETED] Glass & Glazing Services -> Glazing Project Manager
+           File: images/Glass & Glazing Services/Glazing Project Manager.png (3.09 MB)
+[330/414] [COMPLETED] Glass & Glazing Services -> Glass Fabrication Production Manager
+           File: images/Glass & Glazing Services/Glass Fabrication Production Manager.png (3.12 MB)
+[331/414] [COMPLETED] Glass & Glazing Services -> Facade Inspection Specialist
+           File: images/Glass & Glazing Services/Facade Inspection Specialist.png (3.12 MB)
+[332/414] [COMPLETED] Glass & Glazing Services -> Glass Procurement & Inventory Manager
+           File: images/Glass & Glazing Services/Glass Procurement & Inventory Manager.png (2.97 MB)
+[333/414] [COMPLETED] Furniture & Furnishings Manufacturing -> Furniture Designer
+           File: images/Furniture & Furnishings Manufacturing/Furniture Designer.png (3.20 MB)
+[334/414] [COMPLETED] Furniture & Furnishings Manufacturing -> Furniture Production Planner
+           File: images/Furniture & Furnishings Manufacturing/Furniture Production Planner.png (3.46 MB)
+[335/414] [COMPLETED] Furniture & Furnishings Manufacturing -> Furniture Cost Estimator
+           File: images/Furniture & Furnishings Manufacturing/Furniture Cost Estimator.png (3.33 MB)
+[336/414] [COMPLETED] Furniture & Furnishings Manufacturing -> Furniture Quality Manager
+           File: images/Furniture & Furnishings Manufacturing/Furniture Quality Manager.png (3.25 MB)
+[337/414] [COMPLETED] Furniture & Furnishings Manufacturing -> Furniture Materials Procurement Manager
+           File: images/Furniture & Furnishings Manufacturing/Furniture Materials Procurement Manager.png (3.16 MB)
+[338/414] [COMPLETED] Furniture & Furnishings Manufacturing -> Furniture Sales & Order Manager
+           File: images/Furniture & Furnishings Manufacturing/Furniture Sales & Order Manager.png (3.00 MB)
+[339/414] [COMPLETED] Wood Processing & Timber Products -> Timber Procurement Manager
+           File: images/Wood Processing & Timber Products/Timber Procurement Manager.png (3.50 MB)
+[340/414] [COMPLETED] Wood Processing & Timber Products -> Timber Grading Inspector
+           File: images/Wood Processing & Timber Products/Timber Grading Inspector.png (3.41 MB)
+[341/414] [COMPLETED] Wood Processing & Timber Products -> Lumber Inventory Manager
+           File: images/Wood Processing & Timber Products/Lumber Inventory Manager.png (3.19 MB)
+[342/414] [COMPLETED] Wood Processing & Timber Products -> Timber Sales & Distribution Manager
+           File: images/Wood Processing & Timber Products/Timber Sales & Distribution Manager.png (3.24 MB)
+[343/414] [COMPLETED] Pulp & Paper Manufacturing -> Pulp Production Engineer
+           File: images/Pulp & Paper Manufacturing/Pulp Production Engineer.png (3.35 MB)
+[344/414] [COMPLETED] Pulp & Paper Manufacturing -> Paper Production Planner
+           File: images/Pulp & Paper Manufacturing/Paper Production Planner.png (3.33 MB)
+[345/414] [COMPLETED] Pulp & Paper Manufacturing -> Paper Quality & Laboratory Manager
+           File: images/Pulp & Paper Manufacturing/Paper Quality & Laboratory Manager.png (3.32 MB)
+[346/414] [COMPLETED] Pulp & Paper Manufacturing -> Mill Maintenance Manager
+           File: images/Pulp & Paper Manufacturing/Mill Maintenance Manager.png (3.41 MB)
+[347/414] [COMPLETED] Pulp & Paper Manufacturing -> Raw Materials & Chemical Manager
+           File: images/Pulp & Paper Manufacturing/Raw Materials & Chemical Manager.png (3.16 MB)
+[348/414] [COMPLETED] Pulp & Paper Manufacturing -> Paper Sales & Distribution Manager
+           File: images/Pulp & Paper Manufacturing/Paper Sales & Distribution Manager.png (3.08 MB)
+[349/414] [COMPLETED] Printing & Packaging Industry -> Packaging Structural Designer
+           File: images/Printing & Packaging Industry/Packaging Structural Designer.png (3.06 MB)
+[350/414] [COMPLETED] Printing & Packaging Industry -> Color Science & Calibration Engineer
+           File: images/Printing & Packaging Industry/Color Science & Calibration Engineer.png (3.17 MB)
+[351/414] [COMPLETED] Printing & Packaging Industry -> Sustainable Packaging Materials Engineer
+           File: images/Printing & Packaging Industry/Sustainable Packaging Materials Engineer.png (3.24 MB)
+[352/414] [COMPLETED] Printing & Packaging Industry -> Packaging Order & Client Manager
+           File: images/Printing & Packaging Industry/Packaging Order & Client Manager.png (3.17 MB)
+[353/414] [COMPLETED] Book & Periodical Publishing -> Acquisitions Editor
+           File: images/Book & Periodical Publishing/Acquisitions Editor.png (3.30 MB)
+[354/414] [COMPLETED] Book & Periodical Publishing -> Managing Editor
+           File: images/Book & Periodical Publishing/Managing Editor.png (3.29 MB)
+[355/414] [COMPLETED] Book & Periodical Publishing -> Publishing Production Manager
+           File: images/Book & Periodical Publishing/Publishing Production Manager.png (3.07 MB)
+[356/414] [COMPLETED] Book & Periodical Publishing -> Rights & Licensing Manager
+           File: images/Book & Periodical Publishing/Rights & Licensing Manager.png (3.21 MB)
+[357/414] [COMPLETED] Book & Periodical Publishing -> Publishing Sales & Distribution Manager
+           File: images/Book & Periodical Publishing/Publishing Sales & Distribution Manager.png (2.89 MB)
+[358/414] [COMPLETED] Book & Periodical Publishing -> Royalty & Author Accounts Manager
+           File: images/Book & Periodical Publishing/Royalty & Author Accounts Manager.png (3.06 MB)
+[359/414] [COMPLETED] Digital Publishing & Online Media -> Digital Managing Editor
+           File: images/Digital Publishing & Online Media/Digital Managing Editor.png (3.02 MB)
+[360/414] [COMPLETED] Digital Publishing & Online Media -> SEO Content Strategist
+           File: images/Digital Publishing & Online Media/SEO Content Strategist.png (3.10 MB)
+[361/414] [COMPLETED] Digital Publishing & Online Media -> Digital Advertising Manager
+           File: images/Digital Publishing & Online Media/Digital Advertising Manager.png (3.21 MB)
+[362/414] [COMPLETED] Digital Publishing & Online Media -> Content Analytics Manager
+           File: images/Digital Publishing & Online Media/Content Analytics Manager.png (2.96 MB)
+[363/414] [COMPLETED] Broadcasting (TV & Radio) -> Newsroom Assignment Editor
+           File: images/Broadcasting (TV & Radio)/Newsroom Assignment Editor.png (3.04 MB)
+[364/414] [COMPLETED] Broadcasting (TV & Radio) -> Advertising Sales Manager
+           File: images/Broadcasting (TV & Radio)/Advertising Sales Manager.png (2.88 MB)
+[365/414] [COMPLETED] Broadcasting (TV & Radio) -> Broadcast Operations Manager
+           File: images/Broadcasting (TV & Radio)/Broadcast Operations Manager.png (2.97 MB)
+[366/414] [COMPLETED] Broadcasting (TV & Radio) -> Media Archive Manager
+           File: images/Broadcasting (TV & Radio)/Media Archive Manager.png (2.95 MB)
+[367/414] [COMPLETED] Film & Video Production -> Film Producer
+           File: images/Film & Video Production/Film Producer.png (3.12 MB)
+[368/414] [COMPLETED] Film & Video Production -> Production Manager
+           File: images/Film & Video Production/Production Manager.png (2.96 MB)
+[369/414] [COMPLETED] Film & Video Production -> Production Sound Mixer
+           File: images/Film & Video Production/Production Sound Mixer.png (3.10 MB)
+[370/414] [COMPLETED] Film & Video Production -> Location Manager
+           File: images/Film & Video Production/Location Manager.png (3.05 MB)
+[371/414] [COMPLETED] Film & Video Production -> VFX Pipeline Technical Director
+           File: images/Film & Video Production/VFX Pipeline Technical Director.png (3.09 MB)
+
+================================================================================
+PART 2: REMAINING TO GENERATE (44 items)
+================================================================================
+[311/414] [PENDING]   Fire Protection Systems Installation -> Municipal Fire Marshal
+[372/414] [PENDING]   Film & Video Production -> Camera Systems & DIT Engineer
+[373/414] [PENDING]   Music Recording & Distribution -> Music Producer
+[374/414] [PENDING]   Music Recording & Distribution -> Studio Manager
+[375/414] [PENDING]   Music Recording & Distribution -> Artist & Repertoire (A&R) Manager
+[376/414] [PENDING]   Music Recording & Distribution -> Music Rights & Licensing Manager
+[377/414] [PENDING]   Music Recording & Distribution -> Royalty Manager
+[378/414] [PENDING]   Music Recording & Distribution -> Music Release & Distribution Manager
+[379/414] [PENDING]   Animation & Visual Effects -> Animation Production Manager
+[380/414] [PENDING]   Animation & Visual Effects -> VFX Supervisor
+[381/414] [PENDING]   Animation & Visual Effects -> Texture & Lookdev Technical Director
+[382/414] [PENDING]   Animation & Visual Effects -> Render Farm Manager
+[383/414] [PENDING]   Animation & Visual Effects -> Crowd Simulation Specialist
+[384/414] [PENDING]   Animation & Visual Effects -> Client Review & Delivery Manager
+[385/414] [PENDING]   Video Game Development & Publishing -> Game Designer
+[386/414] [PENDING]   Video Game Development & Publishing -> Game Producer
+[387/414] [PENDING]   Video Game Development & Publishing -> Game QA Manager
+[388/414] [PENDING]   Video Game Development & Publishing -> Game Economy Designer
+[389/414] [PENDING]   Video Game Development & Publishing -> Live Operations Manager
+[390/414] [PENDING]   Video Game Development & Publishing -> Game Publishing & Release Manager
+[391/414] [PENDING]   Software Development & SaaS -> Product Manager
+[392/414] [PENDING]   Software Development & SaaS -> Software Engineering Manager
+[393/414] [PENDING]   Software Development & SaaS -> QA/Test Manager
+[394/414] [PENDING]   Software Development & SaaS -> DevOps / Release Manager
+[395/414] [PENDING]   Software Development & SaaS -> Customer Success Manager
+[396/414] [PENDING]   Software Development & SaaS -> SaaS Revenue Operations Manager
+[397/414] [PENDING]   Cloud Computing & Web Hosting -> Cloud Solutions Architect
+[398/414] [PENDING]   Cloud Computing & Web Hosting -> FinOps Analyst
+[399/414] [PENDING]   Cloud Computing & Web Hosting -> Site Reliability Engineer
+[400/414] [PENDING]   Cloud Computing & Web Hosting -> Hosting Account Administrator
+[401/414] [PENDING]   Cybersecurity Solutions & Services -> SOC Analyst
+[402/414] [PENDING]   Cybersecurity Solutions & Services -> Penetration Test Manager
+[403/414] [PENDING]   Cybersecurity Solutions & Services -> GRC Analyst
+[404/414] [PENDING]   Cybersecurity Solutions & Services -> Incident Response Manager
+[405/414] [PENDING]   Cybersecurity Solutions & Services -> Vulnerability Management Analyst
+[406/414] [PENDING]   Cybersecurity Solutions & Services -> Security Awareness Manager
+[407/414] [PENDING]   Data Science & Analytics -> Data Scientist
+[408/414] [PENDING]   Data Science & Analytics -> Business Intelligence Analyst
+[409/414] [PENDING]   Data Science & Analytics -> Product Analyst
+[410/414] [PENDING]   Data Science & Analytics -> Data Governance Manager
+[411/414] [PENDING]   Artificial Intelligence & Machine Learning -> AI Product Manager
+[412/414] [PENDING]   Artificial Intelligence & Machine Learning -> AI Evaluation Engineer
+[413/414] [PENDING]   Artificial Intelligence & Machine Learning -> AI Data / Annotation Manager
+[414/414] [PENDING]   Artificial Intelligence & Machine Learning -> AI Governance & Risk Specialist

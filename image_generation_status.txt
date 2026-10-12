@@ -1,0 +1,1671 @@
+================================================================================
+OTHE.APP IMAGE GENERATION STATUS REPORT (UPDATED WITH DISTINCT PROMPTS)
+================================================================================
+Total Professions in Dataset:    414
+Successfully Generated:          370 / 414 (89.4%)
+Remaining (Pending Generation):  44 / 414 (10.6%)
+Standard Output Resolution:      1920x1080 (16:9 Landscape)
+Prompt Architecture:             Distinct Micro-Environments & Unique Color Grading
+================================================================================
+
+PART 1: GENERATED IMAGES (370 items)
+================================================================================
+[001] [GENERATED] Accounting & Finance -> Auditor
+      File:       images/Accounting & Finance/Auditor.png
+      Resolution: 1920x1080 | Size: 2353.1 KB
+
+[002] [GENERATED] Accounting & Finance -> Accountant
+      File:       images/Accounting & Finance/Accountant.png
+      Resolution: 1920x1080 | Size: 2429.4 KB
+
+[003] [GENERATED] Accounting & Finance -> Tax Planner
+      File:       images/Accounting & Finance/Tax Planner.png
+      Resolution: 1920x1080 | Size: 2324.3 KB
+
+[004] [GENERATED] Accounting & Finance -> Treasury Manager
+      File:       images/Accounting & Finance/Treasury Manager.png
+      Resolution: 1920x1080 | Size: 2361.8 KB
+
+[005] [GENERATED] Production & Operations -> Operations Supervisor
+      File:       images/Production & Operations/Operations Supervisor.png
+      Resolution: 1920x1080 | Size: 2636.2 KB
+
+[006] [GENERATED] Production & Operations -> Quality controller
+      File:       images/Production & Operations/Quality controller.png
+      Resolution: 1920x1080 | Size: 3050.6 KB
+
+[007] [GENERATED] Production & Operations -> Machine Operator
+      File:       images/Production & Operations/Machine Operator.png
+      Resolution: 1920x1080 | Size: 2824.1 KB
+
+[008] [GENERATED] Production & Operations -> Operations Analyst
+      File:       images/Production & Operations/Operations Analyst.png
+      Resolution: 1920x1080 | Size: 2965.1 KB
+
+[009] [GENERATED] Production & Operations -> Maintenance Officer
+      File:       images/Production & Operations/Maintenance Officer.png
+      Resolution: 1920x1080 | Size: 3024.5 KB
+
+[010] [GENERATED] Production & Operations -> Warehouse Manager
+      File:       images/Production & Operations/Warehouse Manager.png
+      Resolution: 1920x1080 | Size: 2861.3 KB
+
+[011] [GENERATED] Supply Chain & Procurement -> Supply Chain Analyst
+      File:       images/Supply Chain & Procurement/Supply Chain Analyst.png
+      Resolution: 1920x1080 | Size: 2724.9 KB
+
+[012] [GENERATED] Supply Chain & Procurement -> Vendor Coordinator
+      File:       images/Supply Chain & Procurement/Vendor Coordinator.png
+      Resolution: 1920x1080 | Size: 2724.7 KB
+
+[013] [GENERATED] Supply Chain & Procurement -> Demand Planning Executive
+      File:       images/Supply Chain & Procurement/Demand Planning Executive.png
+      Resolution: 1920x1080 | Size: 2711.5 KB
+
+[014] [GENERATED] Supply Chain & Procurement -> Distribution Coordinator
+      File:       images/Supply Chain & Procurement/Distribution Coordinator.png
+      Resolution: 1920x1080 | Size: 2710.8 KB
+
+[015] [GENERATED] Commercial & Trade -> Trade Marketing Executive
+      File:       images/Commercial & Trade/Trade Marketing Executive.png
+      Resolution: 1920x1080 | Size: 2738.6 KB
+
+[016] [GENERATED] Commercial & Trade -> Key Account Officer
+      File:       images/Commercial & Trade/Key Account Officer.png
+      Resolution: 1920x1080 | Size: 2500.4 KB
+
+[017] [GENERATED] Commercial & Trade -> Trade Compliance Officer
+      File:       images/Commercial & Trade/Trade Compliance Officer.png
+      Resolution: 1920x1080 | Size: 2652.1 KB
+
+[018] [GENERATED] Commercial & Trade -> Business Development Executive
+      File:       images/Commercial & Trade/Business Development Executive.png
+      Resolution: 1920x1080 | Size: 2602.1 KB
+
+[019] [GENERATED] Research & Consultancy -> IT Consultant
+      File:       images/Research & Consultancy/IT Consultant.png
+      Resolution: 1920x1080 | Size: 2218.7 KB
+
+[020] [GENERATED] Research & Consultancy -> Research Associate
+      File:       images/Research & Consultancy/Research Associate.png
+      Resolution: 1920x1080 | Size: 2230.3 KB
+
+[021] [GENERATED] Research & Consultancy -> Risk Consultant
+      File:       images/Research & Consultancy/Risk Consultant.png
+      Resolution: 1920x1080 | Size: 2257.6 KB
+
+[022] [GENERATED] Research & Consultancy -> Impact Assessment Specialist
+      File:       images/Research & Consultancy/Impact Assessment Specialist.png
+      Resolution: 1920x1080 | Size: 2220.3 KB
+
+[023] [GENERATED] Education & Training -> Teacher
+      File:       images/Education & Training/Teacher.png
+      Resolution: 1920x1080 | Size: 2145.2 KB
+
+[024] [GENERATED] Education & Training -> Academic Coordinator
+      File:       images/Education & Training/Academic Coordinator.png
+      Resolution: 1920x1080 | Size: 2141.3 KB
+
+[025] [GENERATED] Education & Training -> Student Affairs Officer
+      File:       images/Education & Training/Student Affairs Officer.png
+      Resolution: 1920x1080 | Size: 2376.2 KB
+
+[026] [GENERATED] Education & Training -> Academic counselor
+      File:       images/Education & Training/Academic counselor.png
+      Resolution: 1920x1080 | Size: 2269.2 KB
+
+[027] [GENERATED] Education & Training -> Vocational Trainer
+      File:       images/Education & Training/Vocational Trainer.png
+      Resolution: 1920x1080 | Size: 2391.6 KB
+
+[028] [GENERATED] Education & Training -> Students
+      File:       images/Education & Training/Students.png
+      Resolution: 1920x1080 | Size: 2512.8 KB
+
+[029] [GENERATED] IT & Telecommunication -> Network Engineer
+      File:       images/IT & Telecommunication/Network Engineer.png
+      Resolution: 1920x1080 | Size: 2262.7 KB
+
+[030] [GENERATED] IT & Telecommunication -> Software Engineer
+      File:       images/IT & Telecommunication/Software Engineer.png
+      Resolution: 1920x1080 | Size: 2285.2 KB
+
+[031] [GENERATED] IT & Telecommunication -> Project Manager
+      File:       images/IT & Telecommunication/Project Manager.png
+      Resolution: 1920x1080 | Size: 2246.9 KB
+
+[032] [GENERATED] IT & Telecommunication -> System Administrator
+      File:       images/IT & Telecommunication/System Administrator.png
+      Resolution: 1920x1080 | Size: 2196.9 KB
+
+[033] [GENERATED] IT & Telecommunication -> SQA Engineer
+      File:       images/IT & Telecommunication/SQA Engineer.png
+      Resolution: 1920x1080 | Size: 2240.8 KB
+
+[034] [GENERATED] IT & Telecommunication -> Cybersecurity Analyst
+      File:       images/IT & Telecommunication/Cybersecurity Analyst.png
+      Resolution: 1920x1080 | Size: 2359.9 KB
+
+[035] [GENERATED] IT & Telecommunication -> 
+      File:       images/IT & Telecommunication/.png
+      Resolution: 1920x1080 | Size: 965.1 KB
+
+[036] [GENERATED] Engineering & Architecture -> Civil Engineer
+      File:       images/Engineering & Architecture/Civil Engineer.png
+      Resolution: 1920x1080 | Size: 2970.8 KB
+
+[037] [GENERATED] Engineering & Architecture -> Mechanical Engineer
+      File:       images/Engineering & Architecture/Mechanical Engineer.png
+      Resolution: 1920x1080 | Size: 2899.7 KB
+
+[038] [GENERATED] Engineering & Architecture -> Interior Designer
+      File:       images/Engineering & Architecture/Interior Designer.png
+      Resolution: 1920x1080 | Size: 3068.2 KB
+
+[039] [GENERATED] Engineering & Architecture -> Electrical Engineer
+      File:       images/Engineering & Architecture/Electrical Engineer.png
+      Resolution: 1920x1080 | Size: 3117.1 KB
+
+[040] [GENERATED] Engineering & Architecture -> Environmental Engineer
+      File:       images/Engineering & Architecture/Environmental Engineer.png
+      Resolution: 1920x1080 | Size: 3007.6 KB
+
+[041] [GENERATED] Engineering & Architecture -> Industrial Engineer
+      File:       images/Engineering & Architecture/Industrial Engineer.png
+      Resolution: 1920x1080 | Size: 2942.2 KB
+
+[042] [GENERATED] Marketing & Sales -> Brand Manager
+      File:       images/Marketing & Sales/Brand Manager.png
+      Resolution: 1920x1080 | Size: 2637.5 KB
+
+[043] [GENERATED] Marketing & Sales -> Sales Representative
+      File:       images/Marketing & Sales/Sales Representative.png
+      Resolution: 1920x1080 | Size: 2550.0 KB
+
+[044] [GENERATED] Marketing & Sales -> Area Sales Manager
+      File:       images/Marketing & Sales/Area Sales Manager.png
+      Resolution: 1920x1080 | Size: 2662.8 KB
+
+[045] [GENERATED] Marketing & Sales -> Social Media Executive
+      File:       images/Marketing & Sales/Social Media Executive.png
+      Resolution: 1920x1080 | Size: 2803.5 KB
+
+[046] [GENERATED] Marketing & Sales -> Content Strategist
+      File:       images/Marketing & Sales/Content Strategist.png
+      Resolution: 1920x1080 | Size: 2711.0 KB
+
+[047] [GENERATED] Marketing & Sales -> Marketing Analyst
+      File:       images/Marketing & Sales/Marketing Analyst.png
+      Resolution: 1920x1080 | Size: 2652.1 KB
+
+[048] [GENERATED] Data Entry, BPO & IT-Enabled Services -> BPO Executive
+      File:       images/Data Entry, BPO & IT-Enabled Services/BPO Executive.png
+      Resolution: 1920x1080 | Size: 2257.0 KB
+
+[049] [GENERATED] Data Entry, BPO & IT-Enabled Services -> Quality Analyst — BPO
+      File:       images/Data Entry, BPO & IT-Enabled Services/Quality Analyst — BPO.png
+      Resolution: 1920x1080 | Size: 2463.6 KB
+
+[050] [GENERATED] Garments & Textile Industry -> Garment Production Executive
+      File:       images/Garments & Textile Industry/Garment Production Executive.png
+      Resolution: 1920x1080 | Size: 3184.1 KB
+
+[051] [GENERATED] Garments & Textile Industry -> Production Supervisor
+      File:       images/Garments & Textile Industry/Production Supervisor.png
+      Resolution: 1920x1080 | Size: 3097.6 KB
+
+[052] [GENERATED] Garments & Textile Industry -> Merchandiser
+      File:       images/Garments & Textile Industry/Merchandiser.png
+      Resolution: 1920x1080 | Size: 3101.0 KB
+
+[053] [GENERATED] Garments & Textile Industry -> Quality Inspector
+      File:       images/Garments & Textile Industry/Quality Inspector.png
+      Resolution: 1920x1080 | Size: 3262.0 KB
+
+[054] [GENERATED] Garments & Textile Industry -> Textile Engineer
+      File:       images/Garments & Textile Industry/Textile Engineer.png
+      Resolution: 1920x1080 | Size: 3202.5 KB
+
+[055] [GENERATED] Garments & Textile Industry -> Fashion designer
+      File:       images/Garments & Textile Industry/Fashion designer.png
+      Resolution: 1920x1080 | Size: 3224.0 KB
+
+[056] [GENERATED] Customer Service & Call Centre -> (All professions in this category were marked in red)
+      File:       images/Customer Service & Call Centre/(All professions in this category were marked in red).png
+      Resolution: 1920x1080 | Size: 2780.8 KB
+
+[057] [GENERATED] Creative Design & Multimedia -> Graphic Designer
+      File:       images/Creative Design & Multimedia/Graphic Designer.png
+      Resolution: 1920x1080 | Size: 2742.2 KB
+
+[058] [GENERATED] Creative Design & Multimedia -> UI/UX Designer
+      File:       images/Creative Design & Multimedia/UI/UX Designer.png
+      Resolution: 1920x1080 | Size: 1101.9 KB
+
+[059] [GENERATED] Creative Design & Multimedia -> Video Editor
+      File:       images/Creative Design & Multimedia/Video Editor.png
+      Resolution: 1920x1080 | Size: 2831.8 KB
+
+[060] [GENERATED] Creative Design & Multimedia -> Photographer
+      File:       images/Creative Design & Multimedia/Photographer.png
+      Resolution: 1920x1080 | Size: 2942.6 KB
+
+[061] [GENERATED] Creative Design & Multimedia -> Digital Illustrator
+      File:       images/Creative Design & Multimedia/Digital Illustrator.png
+      Resolution: 1920x1080 | Size: 3024.2 KB
+
+[062] [GENERATED] Creative Design & Multimedia -> 3D Animator
+      File:       images/Creative Design & Multimedia/3D Animator.png
+      Resolution: 1920x1080 | Size: 2921.6 KB
+
+[063] [GENERATED] Human Resources & Organizational Development -> Training & Development Officer
+      File:       images/Human Resources & Organizational Development/Training & Development Officer.png
+      Resolution: 1920x1080 | Size: 2773.4 KB
+
+[064] [GENERATED] Human Resources & Organizational Development -> HR Administrator
+      File:       images/Human Resources & Organizational Development/HR Administrator.png
+      Resolution: 1920x1080 | Size: 2717.5 KB
+
+[065] [GENERATED] Media, Advertising & Event Management -> Content Creator
+      File:       images/Media, Advertising & Event Management/Content Creator.png
+      Resolution: 1920x1080 | Size: 2920.3 KB
+
+[066] [GENERATED] Media, Advertising & Event Management -> Event Planner
+      File:       images/Media, Advertising & Event Management/Event Planner.png
+      Resolution: 1920x1080 | Size: 2889.8 KB
+
+[067] [GENERATED] Media, Advertising & Event Management -> Advertising Executive
+      File:       images/Media, Advertising & Event Management/Advertising Executive.png
+      Resolution: 1920x1080 | Size: 2745.7 KB
+
+[068] [GENERATED] Media, Advertising & Event Management -> Copywriter
+      File:       images/Media, Advertising & Event Management/Copywriter.png
+      Resolution: 1920x1080 | Size: 2870.0 KB
+
+[069] [GENERATED] Agro & Allied Industries (Plant, Animal, Fisheries) -> Veterinary Officer
+      File:       images/Agro & Allied Industries (Plant, Animal, Fisheries)/Veterinary Officer.png
+      Resolution: 1920x1080 | Size: 3172.8 KB
+
+[070] [GENERATED] Agro & Allied Industries (Plant, Animal, Fisheries) -> Farmer
+      File:       images/Agro & Allied Industries (Plant, Animal, Fisheries)/Farmer.png
+      Resolution: 1920x1080 | Size: 3366.8 KB
+
+[071] [GENERATED] Agro & Allied Industries (Plant, Animal, Fisheries) -> Fisherman
+      File:       images/Agro & Allied Industries (Plant, Animal, Fisheries)/Fisherman.png
+      Resolution: 1920x1080 | Size: 3066.7 KB
+
+[072] [GENERATED] Agro & Allied Industries (Plant, Animal, Fisheries) -> Poultry farmer
+      File:       images/Agro & Allied Industries (Plant, Animal, Fisheries)/Poultry farmer.png
+      Resolution: 1920x1080 | Size: 3056.1 KB
+
+[073] [GENERATED] Agro & Allied Industries (Plant, Animal, Fisheries) -> Gardener
+      File:       images/Agro & Allied Industries (Plant, Animal, Fisheries)/Gardener.png
+      Resolution: 1920x1080 | Size: 3412.0 KB
+
+[074] [GENERATED] Agro & Allied Industries (Plant, Animal, Fisheries) -> BeeKeeper
+      File:       images/Agro & Allied Industries (Plant, Animal, Fisheries)/BeeKeeper.png
+      Resolution: 1920x1080 | Size: 2901.3 KB
+
+[075] [GENERATED] Banking & Non-Bank Financial Institutions -> Cashier
+      File:       images/Banking & Non-Bank Financial Institutions/Cashier.png
+      Resolution: 1920x1080 | Size: 2548.0 KB
+
+[076] [GENERATED] Banking & Non-Bank Financial Institutions -> Relationship officer
+      File:       images/Banking & Non-Bank Financial Institutions/Relationship officer.png
+      Resolution: 1920x1080 | Size: 2668.2 KB
+
+[077] [GENERATED] Banking & Non-Bank Financial Institutions -> Investment Analyst
+      File:       images/Banking & Non-Bank Financial Institutions/Investment Analyst.png
+      Resolution: 1920x1080 | Size: 2430.4 KB
+
+[078] [GENERATED] Banking & Non-Bank Financial Institutions -> Customer Service Officer
+      File:       images/Banking & Non-Bank Financial Institutions/Customer Service Officer.png
+      Resolution: 1920x1080 | Size: 2481.3 KB
+
+[079] [GENERATED] Hospitality, Travel & Tourism -> Receptionist
+      File:       images/Hospitality, Travel & Tourism/Receptionist.png
+      Resolution: 1920x1080 | Size: 2660.5 KB
+
+[080] [GENERATED] Hospitality, Travel & Tourism -> Tourist Guide
+      File:       images/Hospitality, Travel & Tourism/Tourist Guide.png
+      Resolution: 1920x1080 | Size: 2915.5 KB
+
+[081] [GENERATED] Hospitality, Travel & Tourism -> Housekeeping Worker
+      File:       images/Hospitality, Travel & Tourism/Housekeeping Worker.png
+      Resolution: 1920x1080 | Size: 2786.1 KB
+
+[082] [GENERATED] Hospitality, Travel & Tourism -> Photographer
+      File:       images/Hospitality, Travel & Tourism/Photographer.png
+      Resolution: 1920x1080 | Size: 2744.6 KB
+
+[083] [GENERATED] NGO & Development Sector -> Survey Worker
+      File:       images/NGO & Development Sector/Survey Worker.png
+      Resolution: 1920x1080 | Size: 2812.6 KB
+
+[084] [GENERATED] NGO & Development Sector -> Field Officer
+      File:       images/NGO & Development Sector/Field Officer.png
+      Resolution: 1920x1080 | Size: 2834.5 KB
+
+[085] [GENERATED] NGO & Development Sector -> Project Assistant
+      File:       images/NGO & Development Sector/Project Assistant.png
+      Resolution: 1920x1080 | Size: 2915.2 KB
+
+[086] [GENERATED] NGO & Development Sector -> Women Empowerment Worker
+      File:       images/NGO & Development Sector/Women Empowerment Worker.png
+      Resolution: 1920x1080 | Size: 2929.6 KB
+
+[087] [GENERATED] NGO & Development Sector -> Disaster Response Worker
+      File:       images/NGO & Development Sector/Disaster Response Worker.png
+      Resolution: 1920x1080 | Size: 2697.3 KB
+
+[088] [GENERATED] NGO & Development Sector -> Child Protection Worker
+      File:       images/NGO & Development Sector/Child Protection Worker.png
+      Resolution: 1920x1080 | Size: 2711.1 KB
+
+[089] [GENERATED] Security & Support Services -> Security Supervisor
+      File:       images/Security & Support Services/Security Supervisor.png
+      Resolution: 1920x1080 | Size: 2695.9 KB
+
+[090] [GENERATED] Security & Support Services -> Security Manager
+      File:       images/Security & Support Services/Security Manager.png
+      Resolution: 1920x1080 | Size: 2805.2 KB
+
+[091] [GENERATED] Security & Support Services -> Security Inspector
+      File:       images/Security & Support Services/Security Inspector.png
+      Resolution: 1920x1080 | Size: 2637.1 KB
+
+[092] [GENERATED] Security & Support Services -> Cleaner
+      File:       images/Security & Support Services/Cleaner.png
+      Resolution: 1920x1080 | Size: 2797.1 KB
+
+[093] [GENERATED] General Management & Administration -> General Manager
+      File:       images/General Management & Administration/General Manager.png
+      Resolution: 1920x1080 | Size: 2504.9 KB
+
+[094] [GENERATED] Pharmaceutical & Biotech -> Medical Promotion Officer (MPO)
+      File:       images/Pharmaceutical & Biotech/Medical Promotion Officer (MPO).png
+      Resolution: 1920x1080 | Size: 2676.4 KB
+
+[095] [GENERATED] Pharmaceutical & Biotech -> Production Officer
+      File:       images/Pharmaceutical & Biotech/Production Officer.png
+      Resolution: 1920x1080 | Size: 2710.7 KB
+
+[096] [GENERATED] Pharmaceutical & Biotech -> Regulatory Affairs Executive
+      File:       images/Pharmaceutical & Biotech/Regulatory Affairs Executive.png
+      Resolution: 1920x1080 | Size: 2738.8 KB
+
+[097] [GENERATED] Pharmaceutical & Biotech -> Research & Development Officer
+      File:       images/Pharmaceutical & Biotech/Research & Development Officer.png
+      Resolution: 1920x1080 | Size: 2534.9 KB
+
+[098] [GENERATED] Law & Legal Services -> Advocate
+      File:       images/Law & Legal Services/Advocate.png
+      Resolution: 1920x1080 | Size: 2732.2 KB
+
+[099] [GENERATED] Law & Legal Services -> Judge
+      File:       images/Law & Legal Services/Judge.png
+      Resolution: 1920x1080 | Size: 2690.3 KB
+
+[100] [GENERATED] Law & Legal Services -> Legal Officer
+      File:       images/Law & Legal Services/Legal Officer.png
+      Resolution: 1920x1080 | Size: 2709.5 KB
+
+[101] [GENERATED] Law & Legal Services -> Public Prosecutor
+      File:       images/Law & Legal Services/Public Prosecutor.png
+      Resolution: 1920x1080 | Size: 2678.3 KB
+
+[102] [GENERATED] Law & Legal Services -> Notary Public
+      File:       images/Law & Legal Services/Notary Public.png
+      Resolution: 1920x1080 | Size: 2673.2 KB
+
+[103] [GENERATED] Law & Legal Services -> Company Secretary
+      File:       images/Law & Legal Services/Company Secretary.png
+      Resolution: 1920x1080 | Size: 2724.5 KB
+
+[104] [GENERATED] Healthcare & Medical Services -> Senior Staff Nurse
+      File:       images/Healthcare & Medical Services/Senior Staff Nurse.png
+      Resolution: 1920x1080 | Size: 2678.5 KB
+
+[105] [GENERATED] Healthcare & Medical Services -> Medical Technologist
+      File:       images/Healthcare & Medical Services/Medical Technologist.png
+      Resolution: 1920x1080 | Size: 2870.4 KB
+
+[106] [GENERATED] Healthcare & Medical Services -> Pharmacist
+      File:       images/Healthcare & Medical Services/Pharmacist.png
+      Resolution: 1920x1080 | Size: 2715.8 KB
+
+[107] [GENERATED] Healthcare & Medical Services -> Dental Surgeon
+      File:       images/Healthcare & Medical Services/Dental Surgeon.png
+      Resolution: 1920x1080 | Size: 2570.2 KB
+
+[108] [GENERATED] E-commerce & Digital Marketing -> Digital Marketing Executive
+      File:       images/E-commerce & Digital Marketing/Digital Marketing Executive.png
+      Resolution: 1920x1080 | Size: 2645.0 KB
+
+[109] [GENERATED] E-commerce & Digital Marketing -> SEO Executive
+      File:       images/E-commerce & Digital Marketing/SEO Executive.png
+      Resolution: 1920x1080 | Size: 2817.2 KB
+
+[110] [GENERATED] E-commerce & Digital Marketing -> Social Media Manager
+      File:       images/E-commerce & Digital Marketing/Social Media Manager.png
+      Resolution: 1920x1080 | Size: 2751.7 KB
+
+[111] [GENERATED] E-commerce & Digital Marketing -> Content Writer
+      File:       images/E-commerce & Digital Marketing/Content Writer.png
+      Resolution: 1920x1080 | Size: 2762.1 KB
+
+[112] [GENERATED] E-commerce & Digital Marketing -> E-commerce Manager
+      File:       images/E-commerce & Digital Marketing/E-commerce Manager.png
+      Resolution: 1920x1080 | Size: 2869.6 KB
+
+[113] [GENERATED] E-commerce & Digital Marketing -> Performance Marketing Specialist
+      File:       images/E-commerce & Digital Marketing/Performance Marketing Specialist.png
+      Resolution: 1920x1080 | Size: 2747.3 KB
+
+[114] [GENERATED] Company Secretary & Regulatory Affairs -> Head of Internal Audit and Compliance
+      File:       images/Company Secretary & Regulatory Affairs/Head of Internal Audit and Compliance.png
+      Resolution: 1920x1080 | Size: 2738.0 KB
+
+[115] [GENERATED] Company Secretary & Regulatory Affairs -> Secretarial Auditor
+      File:       images/Company Secretary & Regulatory Affairs/Secretarial Auditor.png
+      Resolution: 1920x1080 | Size: 2671.5 KB
+
+[116] [GENERATED] Data Entry & Computer Operations -> Computer Operator
+      File:       images/Data Entry & Computer Operations/Computer Operator.png
+      Resolution: 1920x1080 | Size: 2605.1 KB
+
+[117] [GENERATED] Data Entry & Computer Operations -> Office Assistant Cum Computer Operator
+      File:       images/Data Entry & Computer Operations/Office Assistant Cum Computer Operator.png
+      Resolution: 1920x1080 | Size: 2450.5 KB
+
+[118] [GENERATED] Data Entry & Computer Operations -> Typist
+      File:       images/Data Entry & Computer Operations/Typist.png
+      Resolution: 1920x1080 | Size: 2606.7 KB
+
+[119] [GENERATED] Electrical & Electronics Services -> Electronics Technician
+      File:       images/Electrical & Electronics Services/Electronics Technician.png
+      Resolution: 1920x1080 | Size: 2873.3 KB
+
+[120] [GENERATED] Electrical & Electronics Services -> Service Engineer
+      File:       images/Electrical & Electronics Services/Service Engineer.png
+      Resolution: 1920x1080 | Size: 2982.5 KB
+
+[121] [GENERATED] Pathology & Laboratory Services -> Pathologist
+      File:       images/Pathology & Laboratory Services/Pathologist.png
+      Resolution: 1920x1080 | Size: 2702.3 KB
+
+[122] [GENERATED] Pathology & Laboratory Services -> Phlebotomist
+      File:       images/Pathology & Laboratory Services/Phlebotomist.png
+      Resolution: 1920x1080 | Size: 2682.2 KB
+
+[123] [GENERATED] Pathology & Laboratory Services -> Histotechnologist
+      File:       images/Pathology & Laboratory Services/Histotechnologist.png
+      Resolution: 1920x1080 | Size: 2788.8 KB
+
+[124] [GENERATED] Pathology & Laboratory Services -> Biochemist
+      File:       images/Pathology & Laboratory Services/Biochemist.png
+      Resolution: 1920x1080 | Size: 2799.0 KB
+
+[125] [GENERATED] Mechanic & Technical Repair Services -> Auto Mechanic
+      File:       images/Mechanic & Technical Repair Services/Auto Mechanic.png
+      Resolution: 1920x1080 | Size: 3043.2 KB
+
+[126] [GENERATED] Mechanic & Technical Repair Services -> AC Technician
+      File:       images/Mechanic & Technical Repair Services/AC Technician.png
+      Resolution: 1920x1080 | Size: 3095.2 KB
+
+[127] [GENERATED] Mechanic & Technical Repair Services -> Mobile Phone Technician
+      File:       images/Mechanic & Technical Repair Services/Mobile Phone Technician.png
+      Resolution: 1920x1080 | Size: 2869.1 KB
+
+[128] [GENERATED] Mechanic & Technical Repair Services -> Auto Electrician
+      File:       images/Mechanic & Technical Repair Services/Auto Electrician.png
+      Resolution: 1920x1080 | Size: 2992.8 KB
+
+[129] [GENERATED] Mechanic & Technical Repair Services -> Mechanical Technician
+      File:       images/Mechanic & Technical Repair Services/Mechanical Technician.png
+      Resolution: 1920x1080 | Size: 2918.0 KB
+
+[130] [GENERATED] Mechanic & Technical Repair Services -> Electrician
+      File:       images/Mechanic & Technical Repair Services/Electrician.png
+      Resolution: 1920x1080 | Size: 3167.5 KB
+
+[131] [GENERATED] Driving & Transportation Services -> Rickshaw Puller
+      File:       images/Driving & Transportation Services/Rickshaw Puller.png
+      Resolution: 1920x1080 | Size: 2461.2 KB
+
+[132] [GENERATED] Driving & Transportation Services -> Bus Conductor
+      File:       images/Driving & Transportation Services/Bus Conductor.png
+      Resolution: 1920x1080 | Size: 2283.2 KB
+
+[133] [GENERATED] Driving & Transportation Services -> Motor Mechanic
+      File:       images/Driving & Transportation Services/Motor Mechanic.png
+      Resolution: 1920x1080 | Size: 2142.5 KB
+
+[134] [GENERATED] Security Guarding & Protection -> Security Supervisor
+      File:       images/Security Guarding & Protection/Security Supervisor.png
+      Resolution: 1920x1080 | Size: 2223.7 KB
+
+[135] [GENERATED] Security Guarding & Protection -> CCTV Operator
+      File:       images/Security Guarding & Protection/CCTV Operator.png
+      Resolution: 1920x1080 | Size: 2534.3 KB
+
+[136] [GENERATED] Security Guarding & Protection -> Security Inspector
+      File:       images/Security Guarding & Protection/Security Inspector.png
+      Resolution: 1920x1080 | Size: 2249.5 KB
+
+[137] [GENERATED] Nursing & Patient Care -> Senior Staff Nurse
+      File:       images/Nursing & Patient Care/Senior Staff Nurse.png
+      Resolution: 1920x1080 | Size: 1850.3 KB
+
+[138] [GENERATED] Nursing & Patient Care -> Midwife
+      File:       images/Nursing & Patient Care/Midwife.png
+      Resolution: 1920x1080 | Size: 1946.5 KB
+
+[139] [GENERATED] Nursing & Patient Care -> Nursing Instructor
+      File:       images/Nursing & Patient Care/Nursing Instructor.png
+      Resolution: 1920x1080 | Size: 1931.1 KB
+
+[140] [GENERATED] Nursing & Patient Care -> District Public Health Nurse
+      File:       images/Nursing & Patient Care/District Public Health Nurse.png
+      Resolution: 1920x1080 | Size: 1914.0 KB
+
+[141] [GENERATED] Culinary & Chef Services -> Executive Chef
+      File:       images/Culinary & Chef Services/Executive Chef.png
+      Resolution: 1920x1080 | Size: 2368.9 KB
+
+[142] [GENERATED] Culinary & Chef Services -> Sous Chef
+      File:       images/Culinary & Chef Services/Sous Chef.png
+      Resolution: 1920x1080 | Size: 2419.4 KB
+
+[143] [GENERATED] Culinary & Chef Services -> Chef de Partie
+      File:       images/Culinary & Chef Services/Chef de Partie.png
+      Resolution: 1920x1080 | Size: 2932.9 KB
+
+[144] [GENERATED] Culinary & Chef Services -> Pastry Chef
+      File:       images/Culinary & Chef Services/Pastry Chef.png
+      Resolution: 1920x1080 | Size: 2392.0 KB
+
+[145] [GENERATED] Food & Beverage Services -> Waiter
+      File:       images/Food & Beverage Services/Waiter.png
+      Resolution: 1920x1080 | Size: 2894.4 KB
+
+[146] [GENERATED] Food & Beverage Services -> Chef
+      File:       images/Food & Beverage Services/Chef.png
+      Resolution: 1920x1080 | Size: 2466.9 KB
+
+[147] [GENERATED] Food & Beverage Services -> Bartender
+      File:       images/Food & Beverage Services/Bartender.png
+      Resolution: 1920x1080 | Size: 2837.0 KB
+
+[148] [GENERATED] Food & Beverage Services -> Barista
+      File:       images/Food & Beverage Services/Barista.png
+      Resolution: 1920x1080 | Size: 3001.8 KB
+
+[149] [GENERATED] Delivery & Courier Services -> Sorter
+      File:       images/Delivery & Courier Services/Sorter.png
+      Resolution: 1920x1080 | Size: 3116.0 KB
+
+[150] [GENERATED] Delivery & Courier Services -> Dispatcher
+      File:       images/Delivery & Courier Services/Dispatcher.png
+      Resolution: 1920x1080 | Size: 3028.5 KB
+
+[151] [GENERATED] Delivery & Courier Services -> Warehouse Executive
+      File:       images/Delivery & Courier Services/Warehouse Executive.png
+      Resolution: 1920x1080 | Size: 2975.4 KB
+
+[152] [GENERATED] Delivery & Courier Services -> Branch In-Charge
+      File:       images/Delivery & Courier Services/Branch In-Charge.png
+      Resolution: 1920x1080 | Size: 3061.4 KB
+
+[153] [GENERATED] Office Support & Messenger Services -> Receptionist
+      File:       images/Office Support & Messenger Services/Receptionist.png
+      Resolution: 1920x1080 | Size: 2842.7 KB
+
+[154] [GENERATED] Office Support & Messenger Services -> Messenger
+      File:       images/Office Support & Messenger Services/Messenger.png
+      Resolution: 1920x1080 | Size: 2739.2 KB
+
+[155] [GENERATED] Office Support & Messenger Services -> Personal Secretary
+      File:       images/Office Support & Messenger Services/Personal Secretary.png
+      Resolution: 1920x1080 | Size: 2828.9 KB
+
+[156] [GENERATED] Showroom Sales & Assistance -> Showroom Manager
+      File:       images/Showroom Sales & Assistance/Showroom Manager.png
+      Resolution: 1920x1080 | Size: 2888.6 KB
+
+[157] [GENERATED] Showroom Sales & Assistance -> Cashier
+      File:       images/Showroom Sales & Assistance/Cashier.png
+      Resolution: 1920x1080 | Size: 2653.7 KB
+
+[158] [GENERATED] Showroom Sales & Assistance -> Visual Merchandiser
+      File:       images/Showroom Sales & Assistance/Visual Merchandiser.png
+      Resolution: 1920x1080 | Size: 2848.2 KB
+
+[159] [GENERATED] Graphic Design Services -> Graphic Designer
+      File:       images/Graphic Design Services/Graphic Designer.png
+      Resolution: 1920x1080 | Size: 2827.0 KB
+
+[160] [GENERATED] Graphic Design Services -> Motion Graphic Designer
+      File:       images/Graphic Design Services/Motion Graphic Designer.png
+      Resolution: 1920x1080 | Size: 2987.2 KB
+
+[161] [GENERATED] Graphic Design Services -> Video Editor
+      File:       images/Graphic Design Services/Video Editor.png
+      Resolution: 1920x1080 | Size: 2894.1 KB
+
+[162] [GENERATED] Graphic Design Services -> UI/UX Designer
+      File:       images/Graphic Design Services/UI/UX Designer.png
+      Resolution: 1920x1080 | Size: 1167.1 KB
+
+[163] [GENERATED] Sales Representation & Business Development -> Sales Representative (Sales Performance Manager)
+      File:       images/Sales Representation & Business Development/Sales Representative (Sales Performance Manager).png
+      Resolution: 1920x1080 | Size: 2831.3 KB
+
+[164] [GENERATED] Sales Representation & Business Development -> Sales Manager (Sales Management Dashboard)
+      File:       images/Sales Representation & Business Development/Sales Manager (Sales Management Dashboard).png
+      Resolution: 1920x1080 | Size: 2718.6 KB
+
+[165] [GENERATED] Garment Technical & Machine Operation -> Garment Machine Operator (Machine Operations Tracker)
+      File:       images/Garment Technical & Machine Operation/Garment Machine Operator (Machine Operations Tracker).png
+      Resolution: 1920x1080 | Size: 3152.9 KB
+
+[166] [GENERATED] Garment Technical & Machine Operation -> Industrial Engineering Technician (Garment IE Analytics)
+      File:       images/Garment Technical & Machine Operation/Industrial Engineering Technician (Garment IE Analytics).png
+      Resolution: 1920x1080 | Size: 3291.7 KB
+
+[167] [GENERATED] Garment Technical & Machine Operation -> Cutting Machine Operator (Cutting Operations Manager)
+      File:       images/Garment Technical & Machine Operation/Cutting Machine Operator (Cutting Operations Manager).png
+      Resolution: 1920x1080 | Size: 3133.1 KB
+
+[168] [GENERATED] Garment Technical & Machine Operation -> Embroidery Machine Operator (Embroidery Production Tracker)
+      File:       images/Garment Technical & Machine Operation/Embroidery Machine Operator (Embroidery Production Tracker).png
+      Resolution: 1920x1080 | Size: 3244.3 KB
+
+[169] [GENERATED] CAD & Drafting Services -> Architectural Draftsman (Architectural Drafting Suite)
+      File:       images/CAD & Drafting Services/Architectural Draftsman (Architectural Drafting Suite).png
+      Resolution: 1920x1080 | Size: 2925.8 KB
+
+[170] [GENERATED] CAD & Drafting Services -> Mechanical CAD Designer (Mechanical Design Manager)
+      File:       images/CAD & Drafting Services/Mechanical CAD Designer (Mechanical Design Manager).png
+      Resolution: 1920x1080 | Size: 2901.5 KB
+
+[171] [GENERATED] CAD & Drafting Services -> Electrical CAD Designer (Electrical Design Manager)
+      File:       images/CAD & Drafting Services/Electrical CAD Designer (Electrical Design Manager).png
+      Resolution: 1920x1080 | Size: 2811.7 KB
+
+[172] [GENERATED] CAD & Drafting Services -> Civil CAD Technician (Civil Drafting Manager)
+      File:       images/CAD & Drafting Services/Civil CAD Technician (Civil Drafting Manager).png
+      Resolution: 1920x1080 | Size: 2832.2 KB
+
+[173] [GENERATED] Caregiving & Nanny Services -> Special Needs Caregiver (Special Care Management System)
+      File:       images/Caregiving & Nanny Services/Special Needs Caregiver (Special Care Management System).png
+      Resolution: 1920x1080 | Size: 2627.6 KB
+
+[174] [GENERATED] Welding & Metal Fabrication -> Welding Inspector (Welding Inspection System)
+      File:       images/Welding & Metal Fabrication/Welding Inspector (Welding Inspection System).png
+      Resolution: 1920x1080 | Size: 3077.5 KB
+
+[175] [GENERATED] Welding & Metal Fabrication -> Welding Supervisor (Welding Production Dashboard)
+      File:       images/Welding & Metal Fabrication/Welding Supervisor (Welding Production Dashboard).png
+      Resolution: 1920x1080 | Size: 2938.9 KB
+
+[176] [GENERATED] Plumbing & Pipe Fitting Services -> Plumbing Supervisor (Plumbing Operations Dashboard)
+      File:       images/Plumbing & Pipe Fitting Services/Plumbing Supervisor (Plumbing Operations Dashboard).png
+      Resolution: 1920x1080 | Size: 2903.4 KB
+
+[177] [GENERATED] Cleaning & Janitorial Services -> Industrial Cleaner (Industrial Cleaning Tracker)
+      File:       images/Cleaning & Janitorial Services/Industrial Cleaner (Industrial Cleaning Tracker).png
+      Resolution: 1920x1080 | Size: 2812.9 KB
+
+[178] [GENERATED] Cleaning & Janitorial Services -> Carpet & Upholstery Cleaner (Specialized Cleaning Manager)
+      File:       images/Cleaning & Janitorial Services/Carpet & Upholstery Cleaner (Specialized Cleaning Manager).png
+      Resolution: 1920x1080 | Size: 2790.0 KB
+
+[179] [GENERATED] Cleaning & Janitorial Services -> Cleaning Supervisor (Cleaning Operations Dashboard)
+      File:       images/Cleaning & Janitorial Services/Cleaning Supervisor (Cleaning Operations Dashboard).png
+      Resolution: 1920x1080 | Size: 2928.1 KB
+
+[180] [GENERATED] Masonry & Construction Labour -> Concrete Worker (Concrete Work Manager)
+      File:       images/Masonry & Construction Labour/Concrete Worker (Concrete Work Manager).png
+      Resolution: 1920x1080 | Size: 2991.7 KB
+
+[181] [GENERATED] Masonry & Construction Labour -> Construction Labourer (Construction Workforce Tracker)
+      File:       images/Masonry & Construction Labour/Construction Labourer (Construction Workforce Tracker).png
+      Resolution: 1920x1080 | Size: 2886.6 KB
+
+[182] [GENERATED] Masonry & Construction Labour -> Tile Setter (Tiling Project Manager)
+      File:       images/Masonry & Construction Labour/Tile Setter (Tiling Project Manager).png
+      Resolution: 1920x1080 | Size: 2860.1 KB
+
+[183] [GENERATED] Masonry & Construction Labour -> Construction Foreman (Construction Site Dashboard)
+      File:       images/Masonry & Construction Labour/Construction Foreman (Construction Site Dashboard).png
+      Resolution: 1920x1080 | Size: 2821.8 KB
+
+[184] [GENERATED] Sewing & Apparel Manufacturing -> Tailor (Tailoring Management System)
+      File:       images/Sewing & Apparel Manufacturing/Tailor (Tailoring Management System).png
+      Resolution: 1920x1080 | Size: 3176.4 KB
+
+[185] [GENERATED] Sewing & Apparel Manufacturing -> Pattern Maker (Pattern Design Manager)
+      File:       images/Sewing & Apparel Manufacturing/Pattern Maker (Pattern Design Manager).png
+      Resolution: 1920x1080 | Size: 3176.6 KB
+
+[186] [GENERATED] Sewing & Apparel Manufacturing -> Apparel Production Supervisor (Apparel Production Dashboard)
+      File:       images/Sewing & Apparel Manufacturing/Apparel Production Supervisor (Apparel Production Dashboard).png
+      Resolution: 1920x1080 | Size: 3168.4 KB
+
+[187] [GENERATED] Sewing & Apparel Manufacturing -> Garment Finishing Operator (Garment Finishing Tracker)
+      File:       images/Sewing & Apparel Manufacturing/Garment Finishing Operator (Garment Finishing Tracker).png
+      Resolution: 1920x1080 | Size: 3123.6 KB
+
+[188] [GENERATED] Beauty & Salon Services -> Beautician (Beauty Service Manager)
+      File:       images/Beauty & Salon Services/Beautician (Beauty Service Manager).png
+      Resolution: 1920x1080 | Size: 2959.0 KB
+
+[189] [GENERATED] Beauty & Salon Services -> Makeup Artist (Makeup Service Planner)
+      File:       images/Beauty & Salon Services/Makeup Artist (Makeup Service Planner).png
+      Resolution: 1920x1080 | Size: 2975.7 KB
+
+[190] [GENERATED] Beauty & Salon Services -> Nail Technician (Nail Salon Manager)
+      File:       images/Beauty & Salon Services/Nail Technician (Nail Salon Manager).png
+      Resolution: 1920x1080 | Size: 3048.9 KB
+
+[191] [GENERATED] Beauty & Salon Services -> Salon Manager (Salon Operations Dashboard)
+      File:       images/Beauty & Salon Services/Salon Manager (Salon Operations Dashboard).png
+      Resolution: 1920x1080 | Size: 2883.9 KB
+
+[192] [GENERATED] Gardening & Landscaping Services -> Landscape Designer (Landscape Design Studio)
+      File:       images/Gardening & Landscaping Services/Landscape Designer (Landscape Design Studio).png
+      Resolution: 1920x1080 | Size: 3168.9 KB
+
+[193] [GENERATED] Gardening & Landscaping Services -> Horticulture Technician (Horticulture Management System)
+      File:       images/Gardening & Landscaping Services/Horticulture Technician (Horticulture Management System).png
+      Resolution: 1920x1080 | Size: 3135.2 KB
+
+[194] [GENERATED] Gardening & Landscaping Services -> Arborist (Tree Health Management System)
+      File:       images/Gardening & Landscaping Services/Arborist (Tree Health Management System).png
+      Resolution: 1920x1080 | Size: 3289.5 KB
+
+[195] [GENERATED] Gardening & Landscaping Services -> Landscaping Supervisor (Landscape Operations Dashboard)
+      File:       images/Gardening & Landscaping Services/Landscaping Supervisor (Landscape Operations Dashboard).png
+      Resolution: 1920x1080 | Size: 3077.8 KB
+
+[196] [GENERATED] Gym & Fitness Training -> Personal Trainer (Personal Training Manager)
+      File:       images/Gym & Fitness Training/Personal Trainer (Personal Training Manager).png
+      Resolution: 1920x1080 | Size: 2782.3 KB
+
+[197] [GENERATED] Gym & Fitness Training -> Gym Manager (Gym Operations Dashboard)
+      File:       images/Gym & Fitness Training/Gym Manager (Gym Operations Dashboard).png
+      Resolution: 1920x1080 | Size: 2621.4 KB
+
+[198] [GENERATED] Fire Safety & Firefighting Services -> Firefighter (Fire Response Management System)
+      File:       images/Fire Safety & Firefighting Services/Firefighter (Fire Response Management System).png
+      Resolution: 1920x1080 | Size: 2931.5 KB
+
+[199] [GENERATED] Fire Safety & Firefighting Services -> Fire Safety Inspector (Fire Inspection Dashboard)
+      File:       images/Fire Safety & Firefighting Services/Fire Safety Inspector (Fire Inspection Dashboard).png
+      Resolution: 1920x1080 | Size: 2381.3 KB
+
+[200] [GENERATED] Religious & Spiritual Services -> Muezzin (Prayer Operations Manager)
+      File:       images/Religious & Spiritual Services/Muezzin (Prayer Operations Manager).png
+      Resolution: 1920x1080 | Size: 2408.1 KB
+
+[201] [GENERATED] Religious & Spiritual Services -> Islamic Scholar (Islamic Knowledge Platform)
+      File:       images/Religious & Spiritual Services/Islamic Scholar (Islamic Knowledge Platform).png
+      Resolution: 1920x1080 | Size: 2499.4 KB
+
+[202] [GENERATED] Physiotherapy & Rehabilitation -> Occupational Therapist (Occupational Therapy Manager)
+      File:       images/Physiotherapy & Rehabilitation/Occupational Therapist (Occupational Therapy Manager).png
+      Resolution: 1920x1080 | Size: 2084.7 KB
+
+[203] [GENERATED] Physiotherapy & Rehabilitation -> Physical Rehabilitation Assistant (Rehab Support Tracker)
+      File:       images/Physiotherapy & Rehabilitation/Physical Rehabilitation Assistant (Rehab Support Tracker).png
+      Resolution: 1920x1080 | Size: 2432.4 KB
+
+[204] [GENERATED] Physiotherapy & Rehabilitation -> Physiotherapy Clinic Manager (Physio Clinic Dashboard)
+      File:       images/Physiotherapy & Rehabilitation/Physiotherapy Clinic Manager (Physio Clinic Dashboard).png
+      Resolution: 1920x1080 | Size: 2189.3 KB
+
+[205] [GENERATED] Boiler & Steam Plant Operations -> Steam Engineer (Steam Engineering Dashboard)
+      File:       images/Boiler & Steam Plant Operations/Steam Engineer (Steam Engineering Dashboard).png
+      Resolution: 1920x1080 | Size: 2430.9 KB
+
+[206] [GENERATED] Boiler & Steam Plant Operations -> Boiler Plant Supervisor (Boiler Plant Operations Manager)
+      File:       images/Boiler & Steam Plant Operations/Boiler Plant Supervisor (Boiler Plant Operations Manager).png
+      Resolution: 1920x1080 | Size: 2415.9 KB
+
+[207] [GENERATED] Carpentry & Joinery Services -> Woodworking Technician (Woodworking Operations Tracker)
+      File:       images/Carpentry & Joinery Services/Woodworking Technician (Woodworking Operations Tracker).png
+      Resolution: 1920x1080 | Size: 2584.1 KB
+
+[208] [GENERATED] Carpentry & Joinery Services -> Carpentry Supervisor (Carpentry Operations Dashboard)
+      File:       images/Carpentry & Joinery Services/Carpentry Supervisor (Carpentry Operations Dashboard).png
+      Resolution: 1920x1080 | Size: 2611.5 KB
+
+[209] [GENERATED] Agricultural Machinery & Equipment -> Irrigation Equipment Technician (Irrigation Equipment Manager)
+      File:       images/Agricultural Machinery & Equipment/Irrigation Equipment Technician (Irrigation Equipment Manager).png
+      Resolution: 1920x1080 | Size: 2789.7 KB
+
+[210] [GENERATED] Agricultural Machinery & Equipment -> Agricultural Machinery Supervisor (Farm Equipment Operations Dashboard)
+      File:       images/Agricultural Machinery & Equipment/Agricultural Machinery Supervisor (Farm Equipment Operations Dashboard).png
+      Resolution: 1920x1080 | Size: 2746.1 KB
+
+[211] [GENERATED] Fertilizer & Agrochemical Industry -> Soil Scientist (Soil Health Analyzer)
+      File:       images/Fertilizer & Agrochemical Industry/Soil Scientist (Soil Health Analyzer).png
+      Resolution: 1920x1080 | Size: 2807.6 KB
+
+[212] [GENERATED] Fertilizer & Agrochemical Industry -> Formulation Chemist (Formulation Lab Manager)
+      File:       images/Fertilizer & Agrochemical Industry/Formulation Chemist (Formulation Lab Manager).png
+      Resolution: 1920x1080 | Size: 2843.1 KB
+
+[213] [GENERATED] Fertilizer & Agrochemical Industry -> Field Sales Rep (Agro Dealer CRM)
+      File:       images/Fertilizer & Agrochemical Industry/Field Sales Rep (Agro Dealer CRM).png
+      Resolution: 1920x1080 | Size: 2853.7 KB
+
+[214] [GENERATED] Fertilizer & Agrochemical Industry -> Quality Control Analyst (QC Lab Tracker)
+      File:       images/Fertilizer & Agrochemical Industry/Quality Control Analyst (QC Lab Tracker).png
+      Resolution: 1920x1080 | Size: 2259.8 KB
+
+[215] [GENERATED] Seeds & Plant Biotechnology -> Plant Breeder (Breeding Program Manager)
+      File:       images/Seeds & Plant Biotechnology/Plant Breeder (Breeding Program Manager).png
+      Resolution: 1920x1080 | Size: 2244.3 KB
+
+[216] [GENERATED] Seeds & Plant Biotechnology -> Molecular Biologist (Genomics Data Platform)
+      File:       images/Seeds & Plant Biotechnology/Molecular Biologist (Genomics Data Platform).png
+      Resolution: 1920x1080 | Size: 2311.6 KB
+
+[217] [GENERATED] Seeds & Plant Biotechnology -> Seed Production Manager (Seed Production Planner)
+      File:       images/Seeds & Plant Biotechnology/Seed Production Manager (Seed Production Planner).png
+      Resolution: 1920x1080 | Size: 2445.5 KB
+
+[218] [GENERATED] Seeds & Plant Biotechnology -> Tissue Culture Technician (Tissue Culture Lab Tracker)
+      File:       images/Seeds & Plant Biotechnology/Tissue Culture Technician (Tissue Culture Lab Tracker).png
+      Resolution: 1920x1080 | Size: 2506.6 KB
+
+[219] [GENERATED] Seeds & Plant Biotechnology -> Seed Quality Analyst (Seed Testing Suite)
+      File:       images/Seeds & Plant Biotechnology/Seed Quality Analyst (Seed Testing Suite).png
+      Resolution: 1920x1080 | Size: 2536.6 KB
+
+[220] [GENERATED] Seeds & Plant Biotechnology -> Field Trial Coordinator (Trial Management System)
+      File:       images/Seeds & Plant Biotechnology/Field Trial Coordinator (Trial Management System).png
+      Resolution: 1920x1080 | Size: 2584.3 KB
+
+[221] [GENERATED] Aquaculture & Fish Farming -> Fish Health Veterinarian (Aquatic Health Monitor)
+      File:       images/Aquaculture & Fish Farming/Fish Health Veterinarian (Aquatic Health Monitor).png
+      Resolution: 1920x1080 | Size: 2689.7 KB
+
+[222] [GENERATED] Aquaculture & Fish Farming -> Water Quality Technician (Water Quality Sensor Hub)
+      File:       images/Aquaculture & Fish Farming/Water Quality Technician (Water Quality Sensor Hub).png
+      Resolution: 1920x1080 | Size: 2768.6 KB
+
+[223] [GENERATED] Aquaculture & Fish Farming -> Feed Nutritionist (Feed Formulation Tool)
+      File:       images/Aquaculture & Fish Farming/Feed Nutritionist (Feed Formulation Tool).png
+      Resolution: 1920x1080 | Size: 2773.3 KB
+
+[224] [GENERATED] Aquaculture & Fish Farming -> Sales & Distribution Manager (Aqua Trade Manager)
+      File:       images/Aquaculture & Fish Farming/Sales & Distribution Manager (Aqua Trade Manager).png
+      Resolution: 1920x1080 | Size: 2780.1 KB
+
+[225] [GENERATED] Livestock & Dairy Farming -> Veterinarian (Livestock Health Records System)
+      File:       images/Livestock & Dairy Farming/Veterinarian (Livestock Health Records System).png
+      Resolution: 1920x1080 | Size: 2891.8 KB
+
+[226] [GENERATED] Livestock & Dairy Farming -> Herd Nutritionist (Ration Formulation Tool)
+      File:       images/Livestock & Dairy Farming/Herd Nutritionist (Ration Formulation Tool).png
+      Resolution: 1920x1080 | Size: 2920.4 KB
+
+[227] [GENERATED] Livestock & Dairy Farming -> Breeding/AI Technician (Breeding Records Manager)
+      File:       images/Livestock & Dairy Farming/Breeding/AI Technician (Breeding Records Manager).png
+      Resolution: 1920x1080 | Size: 1199.2 KB
+
+[228] [GENERATED] Livestock & Dairy Farming -> Livestock Sales & Auction Manager (Livestock Trade Platform)
+      File:       images/Livestock & Dairy Farming/Livestock Sales & Auction Manager (Livestock Trade Platform).png
+      Resolution: 1920x1080 | Size: 3048.9 KB
+
+[229] [GENERATED] Forestry & Timber -> Sawmill Operations Manager (Sawmill Production Dashboard)
+      File:       images/Forestry & Timber/Sawmill Operations Manager (Sawmill Production Dashboard).png
+      Resolution: 1920x1080 | Size: 3025.1 KB
+
+[230] [GENERATED] Forestry & Timber -> Forest Ecologist (Ecosystem Monitoring Tool)
+      File:       images/Forestry & Timber/Forest Ecologist (Ecosystem Monitoring Tool).png
+      Resolution: 1920x1080 | Size: 3046.5 KB
+
+[231] [GENERATED] Forestry & Timber -> Timber Sales/Procurement Manager (Timber Trade Manager)
+      File:       images/Forestry & Timber/Timber Sales/Procurement Manager (Timber Trade Manager).png
+      Resolution: 1920x1080 | Size: 1236.8 KB
+
+[232] [GENERATED] Forestry & Timber -> Forest Fire Management Officer (Fire Risk & Response System)
+      File:       images/Forestry & Timber/Forest Fire Management Officer (Fire Risk & Response System).png
+      Resolution: 1920x1080 | Size: 3115.3 KB
+
+[233] [GENERATED] Mining & Mineral Extraction -> Mining Engineer (Mine Planning Suite)
+      File:       images/Mining & Mineral Extraction/Mining Engineer (Mine Planning Suite).png
+      Resolution: 1920x1080 | Size: 2599.3 KB
+
+[234] [GENERATED] Mining & Mineral Extraction -> Geologist (Geological Data Platform)
+      File:       images/Mining & Mineral Extraction/Geologist (Geological Data Platform).png
+      Resolution: 1920x1080 | Size: 2534.2 KB
+
+[235] [GENERATED] Mining & Mineral Extraction -> Mine Safety Officer (Safety Compliance Tracker)
+      File:       images/Mining & Mineral Extraction/Mine Safety Officer (Safety Compliance Tracker).png
+      Resolution: 1920x1080 | Size: 2566.3 KB
+
+[236] [GENERATED] Mining & Mineral Extraction -> Equipment Maintenance Manager (Fleet Maintenance Manager)
+      File:       images/Mining & Mineral Extraction/Equipment Maintenance Manager (Fleet Maintenance Manager).png
+      Resolution: 1920x1080 | Size: 2550.4 KB
+
+[237] [GENERATED] Mining & Mineral Extraction -> Mineral Processing Engineer (Plant Process Optimizer)
+      File:       images/Mining & Mineral Extraction/Mineral Processing Engineer (Plant Process Optimizer).png
+      Resolution: 1920x1080 | Size: 2610.9 KB
+
+[238] [GENERATED] Mining & Mineral Extraction -> Mine Surveyor (Survey & Volumetrics Tool)
+      File:       images/Mining & Mineral Extraction/Mine Surveyor (Survey & Volumetrics Tool).png
+      Resolution: 1920x1080 | Size: 2646.7 KB
+
+[239] [GENERATED] Oil & Gas Exploration & Production -> Petroleum Engineer (Well Performance Dashboard)
+      File:       images/Oil & Gas Exploration & Production/Petroleum Engineer (Well Performance Dashboard).png
+      Resolution: 1920x1080 | Size: 2695.5 KB
+
+[240] [GENERATED] Oil & Gas Exploration & Production -> Geophysicist (Seismic Data Interpretation Suite)
+      File:       images/Oil & Gas Exploration & Production/Geophysicist (Seismic Data Interpretation Suite).png
+      Resolution: 1920x1080 | Size: 2718.7 KB
+
+[241] [GENERATED] Oil & Gas Exploration & Production -> Drilling Supervisor (Drilling Operations Manager)
+      File:       images/Oil & Gas Exploration & Production/Drilling Supervisor (Drilling Operations Manager).png
+      Resolution: 1920x1080 | Size: 2824.0 KB
+
+[242] [GENERATED] Oil & Gas Exploration & Production -> Reservoir Engineer (Reservoir Simulation Tool)
+      File:       images/Oil & Gas Exploration & Production/Reservoir Engineer (Reservoir Simulation Tool).png
+      Resolution: 1920x1080 | Size: 2817.6 KB
+
+[243] [GENERATED] Oil & Gas Exploration & Production -> HSE Officer (HSE Compliance Platform)
+      File:       images/Oil & Gas Exploration & Production/HSE Officer (HSE Compliance Platform).png
+      Resolution: 1920x1080 | Size: 2876.5 KB
+
+[244] [GENERATED] Oil & Gas Exploration & Production -> Production Operations Manager (Production Operations Center)
+      File:       images/Oil & Gas Exploration & Production/Production Operations Manager (Production Operations Center).png
+      Resolution: 1920x1080 | Size: 2612.6 KB
+
+[245] [GENERATED] Petrochemicals & Refining -> Process Engineer (Process Optimization Suite)
+      File:       images/Petrochemicals & Refining/Process Engineer (Process Optimization Suite).png
+      Resolution: 1920x1080 | Size: 2666.0 KB
+
+[246] [GENERATED] Petrochemicals & Refining -> Refinery Operations Manager (Refinery Operations Center)
+      File:       images/Petrochemicals & Refining/Refinery Operations Manager (Refinery Operations Center).png
+      Resolution: 1920x1080 | Size: 2686.4 KB
+
+[247] [GENERATED] Petrochemicals & Refining -> Quality Control Chemist (Lab Quality Management System)
+      File:       images/Petrochemicals & Refining/Quality Control Chemist (Lab Quality Management System).png
+      Resolution: 1920x1080 | Size: 2709.6 KB
+
+[248] [GENERATED] Petrochemicals & Refining -> Maintenance & Reliability Engineer (Reliability Management Tool)
+      File:       images/Petrochemicals & Refining/Maintenance & Reliability Engineer (Reliability Management Tool).png
+      Resolution: 1920x1080 | Size: 2746.3 KB
+
+[249] [GENERATED] Petrochemicals & Refining -> HSE Manager (HSE Command Center)
+      File:       images/Petrochemicals & Refining/HSE Manager (HSE Command Center).png
+      Resolution: 1920x1080 | Size: 2791.8 KB
+
+[250] [GENERATED] Petrochemicals & Refining -> Supply Chain/Logistics Coordinator (Petrochem Logistics Manager)
+      File:       images/Petrochemicals & Refining/Supply Chain/Logistics Coordinator (Petrochem Logistics Manager).png
+      Resolution: 1920x1080 | Size: 1135.6 KB
+
+[251] [GENERATED] Renewable Energy Generation -> Solar/Wind Plant Engineer (Plant Performance Dashboard)
+      File:       images/Renewable Energy Generation/Solar/Wind Plant Engineer (Plant Performance Dashboard).png
+      Resolution: 1920x1080 | Size: 1173.9 KB
+
+[252] [GENERATED] Renewable Energy Generation -> Energy Analyst (Energy Yield Analytics Tool)
+      File:       images/Renewable Energy Generation/Energy Analyst (Energy Yield Analytics Tool).png
+      Resolution: 1920x1080 | Size: 2960.9 KB
+
+[253] [GENERATED] Renewable Energy Generation -> O&M Technician (O&M Task Manager)
+      File:       images/Renewable Energy Generation/O&M Technician (O&M Task Manager).png
+      Resolution: 1920x1080 | Size: 3010.8 KB
+
+[254] [GENERATED] Renewable Energy Generation -> Project Development Manager (Project Development Tracker)
+      File:       images/Renewable Energy Generation/Project Development Manager (Project Development Tracker).png
+      Resolution: 1920x1080 | Size: 2680.5 KB
+
+[255] [GENERATED] Renewable Energy Generation -> Grid Integration Engineer (Grid Integration Monitor)
+      File:       images/Renewable Energy Generation/Grid Integration Engineer (Grid Integration Monitor).png
+      Resolution: 1920x1080 | Size: 2717.1 KB
+
+[256] [GENERATED] Renewable Energy Generation -> Environmental Compliance Officer (Environmental Compliance Tracker)
+      File:       images/Renewable Energy Generation/Environmental Compliance Officer (Environmental Compliance Tracker).png
+      Resolution: 1920x1080 | Size: 2763.1 KB
+
+[257] [GENERATED] Power Transmission & Distribution -> Transmission Engineer (Transmission Asset Manager)
+      File:       images/Power Transmission & Distribution/Transmission Engineer (Transmission Asset Manager).png
+      Resolution: 1920x1080 | Size: 2777.7 KB
+
+[258] [GENERATED] Power Transmission & Distribution -> Substation Maintenance Technician (Substation Maintenance Tracker)
+      File:       images/Power Transmission & Distribution/Substation Maintenance Technician (Substation Maintenance Tracker).png
+      Resolution: 1920x1080 | Size: 2818.2 KB
+
+[259] [GENERATED] Power Transmission & Distribution -> Metering & Billing Analyst (Smart Metering & Billing Platform)
+      File:       images/Power Transmission & Distribution/Metering & Billing Analyst (Smart Metering & Billing Platform).png
+      Resolution: 1920x1080 | Size: 2866.1 KB
+
+[260] [GENERATED] Power Transmission & Distribution -> Outage Management Coordinator (Outage Management System)
+      File:       images/Power Transmission & Distribution/Outage Management Coordinator (Outage Management System).png
+      Resolution: 1920x1080 | Size: 2919.3 KB
+
+[261] [GENERATED] Water Treatment & Supply -> Water Treatment Plant Operator (Treatment Plant Control Dashboard)
+      File:       images/Water Treatment & Supply/Water Treatment Plant Operator (Treatment Plant Control Dashboard).png
+      Resolution: 1920x1080 | Size: 3014.6 KB
+
+[262] [GENERATED] Water Treatment & Supply -> Water Quality Analyst (Water Quality Testing System)
+      File:       images/Water Treatment & Supply/Water Quality Analyst (Water Quality Testing System).png
+      Resolution: 1920x1080 | Size: 3081.9 KB
+
+[263] [GENERATED] Water Treatment & Supply -> Distribution Network Engineer (Water Network Manager)
+      File:       images/Water Treatment & Supply/Distribution Network Engineer (Water Network Manager).png
+      Resolution: 1920x1080 | Size: 3127.1 KB
+
+[264] [GENERATED] Water Treatment & Supply -> Environmental Compliance Officer (Compliance Tracking Tool)
+      File:       images/Water Treatment & Supply/Environmental Compliance Officer (Compliance Tracking Tool).png
+      Resolution: 1920x1080 | Size: 2949.9 KB
+
+[265] [GENERATED] Water Treatment & Supply -> Utility Billing Manager (Water Billing Platform)
+      File:       images/Water Treatment & Supply/Utility Billing Manager (Water Billing Platform).png
+      Resolution: 1920x1080 | Size: 2880.6 KB
+
+[266] [GENERATED] Water Treatment & Supply -> Field Maintenance Technician (Field Service Manager)
+      File:       images/Water Treatment & Supply/Field Maintenance Technician (Field Service Manager).png
+      Resolution: 1920x1080 | Size: 2927.8 KB
+
+[267] [GENERATED] Waste Management & Recycling -> Recycling Facility Manager (MRF Operations Manager)
+      File:       images/Waste Management & Recycling/Recycling Facility Manager (MRF Operations Manager).png
+      Resolution: 1920x1080 | Size: 3004.7 KB
+
+[268] [GENERATED] Waste Management & Recycling -> Environmental Compliance Officer (Waste Compliance Tracker)
+      File:       images/Waste Management & Recycling/Environmental Compliance Officer (Waste Compliance Tracker).png
+      Resolution: 1920x1080 | Size: 3034.8 KB
+
+[269] [GENERATED] Waste Management & Recycling -> Materials Recovery Technician (Materials Recovery Tracker)
+      File:       images/Waste Management & Recycling/Materials Recovery Technician (Materials Recovery Tracker).png
+      Resolution: 1920x1080 | Size: 3048.5 KB
+
+[270] [GENERATED] Waste Management & Recycling -> Sustainability & Client Relations Manager (Client Sustainability Portal)
+      File:       images/Waste Management & Recycling/Sustainability & Client Relations Manager (Client Sustainability Portal).png
+      Resolution: 1920x1080 | Size: 2461.2 KB
+
+[271] [GENERATED] Environmental Consulting & Services -> Air Quality Analyst (Air Quality Monitoring Platform)
+      File:       images/Environmental Consulting & Services/Air Quality Analyst (Air Quality Monitoring Platform).png
+      Resolution: 1920x1080 | Size: 2735.2 KB
+
+[272] [GENERATED] Environmental Consulting & Services -> Contaminated Land/Remediation Specialist (Site Remediation Tracker)
+      File:       images/Environmental Consulting & Services/Contaminated Land/Remediation Specialist (Site Remediation Tracker).png
+      Resolution: 1920x1080 | Size: 1139.4 KB
+
+[273] [GENERATED] Environmental Consulting & Services -> Compliance Auditor (Compliance Audit Suite)
+      File:       images/Environmental Consulting & Services/Compliance Auditor (Compliance Audit Suite).png
+      Resolution: 1920x1080 | Size: 2899.3 KB
+
+[274] [GENERATED] Environmental Consulting & Services -> GIS Analyst (Environmental GIS Platform)
+      File:       images/Environmental Consulting & Services/GIS Analyst (Environmental GIS Platform).png
+      Resolution: 1920x1080 | Size: 2779.6 KB
+
+[275] [GENERATED] Construction Materials Manufacturing -> Plant Production Manager (Production Control Dashboard)
+      File:       images/Construction Materials Manufacturing/Plant Production Manager (Production Control Dashboard).png
+      Resolution: 1920x1080 | Size: 3093.6 KB
+
+[276] [GENERATED] Construction Materials Manufacturing -> Quality Control Engineer (Materials QC System)
+      File:       images/Construction Materials Manufacturing/Quality Control Engineer (Materials QC System).png
+      Resolution: 1920x1080 | Size: 3121.5 KB
+
+[277] [GENERATED] Construction Materials Manufacturing -> Process/Mix Design Engineer (Mix Design Optimizer)
+      File:       images/Construction Materials Manufacturing/Process/Mix Design Engineer (Mix Design Optimizer).png
+      Resolution: 1920x1080 | Size: 1217.6 KB
+
+[278] [GENERATED] Construction Materials Manufacturing -> Maintenance Engineer (Plant Maintenance Manager)
+      File:       images/Construction Materials Manufacturing/Maintenance Engineer (Plant Maintenance Manager).png
+      Resolution: 1920x1080 | Size: 2949.0 KB
+
+[279] [GENERATED] Construction Materials Manufacturing -> Logistics/Dispatch Manager (Dispatch & Fleet Manager)
+      File:       images/Construction Materials Manufacturing/Logistics/Dispatch Manager (Dispatch & Fleet Manager).png
+      Resolution: 1920x1080 | Size: 1200.3 KB
+
+[280] [GENERATED] Construction Materials Manufacturing -> Sales & Estimation Manager (Sales Estimation Tool)
+      File:       images/Construction Materials Manufacturing/Sales & Estimation Manager (Sales Estimation Tool).png
+      Resolution: 1920x1080 | Size: 2922.2 KB
+
+[281] [GENERATED] Real Estate Development & Property -> Land Acquisition Manager (Land Acquisition Manager Tool)
+      File:       images/Real Estate Development & Property/Land Acquisition Manager (Land Acquisition Manager Tool).png
+      Resolution: 1920x1080 | Size: 2833.2 KB
+
+[282] [GENERATED] Real Estate Development & Property -> Sales & Marketing Manager (Property Sales CRM)
+      File:       images/Real Estate Development & Property/Sales & Marketing Manager (Property Sales CRM).png
+      Resolution: 1920x1080 | Size: 2719.6 KB
+
+[283] [GENERATED] Real Estate Development & Property -> Financial Analyst (Real Estate Financial Model Tool)
+      File:       images/Real Estate Development & Property/Financial Analyst (Real Estate Financial Model Tool).png
+      Resolution: 1920x1080 | Size: 2677.9 KB
+
+[284] [GENERATED] Real Estate Development & Property -> Legal/Compliance Manager (Compliance & Documentation Tracker)
+      File:       images/Real Estate Development & Property/Legal/Compliance Manager (Compliance & Documentation Tracker).png
+      Resolution: 1920x1080 | Size: 1051.3 KB
+
+[285] [GENERATED] Property Management & Leasing -> Leasing Agent (Leasing CRM)
+      File:       images/Property Management & Leasing/Leasing Agent (Leasing CRM).png
+      Resolution: 1920x1080 | Size: 2473.7 KB
+
+[286] [GENERATED] Property Management & Leasing -> Maintenance Coordinator (Maintenance Request Manager)
+      File:       images/Property Management & Leasing/Maintenance Coordinator (Maintenance Request Manager).png
+      Resolution: 1920x1080 | Size: 2625.8 KB
+
+[287] [GENERATED] Property Management & Leasing -> Facilities/Building Engineer (Facilities Management System)
+      File:       images/Property Management & Leasing/Facilities/Building Engineer (Facilities Management System).png
+      Resolution: 1920x1080 | Size: 1034.8 KB
+
+[288] [GENERATED] Property Management & Leasing -> Accounts/Rent Collection Manager (Rent Collection Manager)
+      File:       images/Property Management & Leasing/Accounts/Rent Collection Manager (Rent Collection Manager).png
+      Resolution: 1920x1080 | Size: 1052.1 KB
+
+[289] [GENERATED] Architecture & Interior Design -> Architect (Design Project Studio)
+      File:       images/Architecture & Interior Design/Architect (Design Project Studio).png
+      Resolution: 1920x1080 | Size: 2823.1 KB
+
+[290] [GENERATED] Architecture & Interior Design -> Interior Designer (Interior Design Visualizer)
+      File:       images/Architecture & Interior Design/Interior Designer (Interior Design Visualizer).png
+      Resolution: 1920x1080 | Size: 2745.7 KB
+
+[291] [GENERATED] Architecture & Interior Design -> Design Project Coordinator (Project Coordination Tool)
+      File:       images/Architecture & Interior Design/Design Project Coordinator (Project Coordination Tool).png
+      Resolution: 1920x1080 | Size: 2503.1 KB
+
+[292] [GENERATED] Architecture & Interior Design -> BIM/CAD Specialist (BIM Model Manager)
+      File:       images/Architecture & Interior Design/BIM/CAD Specialist (BIM Model Manager).png
+      Resolution: 1920x1080 | Size: 995.0 KB
+
+[293] [GENERATED] Architecture & Interior Design -> Sustainability/Green Building Consultant (Green Building Assessment Tool)
+      File:       images/Architecture & Interior Design/Sustainability/Green Building Consultant (Green Building Assessment Tool).png
+      Resolution: 1920x1080 | Size: 1072.4 KB
+
+[294] [GENERATED] Architecture & Interior Design -> Client Relations & Sales Manager (Design Firm CRM)
+      File:       images/Architecture & Interior Design/Client Relations & Sales Manager (Design Firm CRM).png
+      Resolution: 1920x1080 | Size: 2418.5 KB
+
+[295] [GENERATED] Urban & Regional Planning -> Urban Planner (Urban Planning Platform)
+      File:       images/Urban & Regional Planning/Urban Planner (Urban Planning Platform).png
+      Resolution: 1920x1080 | Size: 3199.7 KB
+
+[296] [GENERATED] Urban & Regional Planning -> GIS Analyst (Planning GIS Suite)
+      File:       images/Urban & Regional Planning/GIS Analyst (Planning GIS Suite).png
+      Resolution: 1920x1080 | Size: 3175.1 KB
+
+[297] [GENERATED] Urban & Regional Planning -> Transportation Planner (Transportation Planning Tool)
+      File:       images/Urban & Regional Planning/Transportation Planner (Transportation Planning Tool).png
+      Resolution: 1920x1080 | Size: 3139.8 KB
+
+[298] [GENERATED] Urban & Regional Planning -> Community Engagement Coordinator (Community Engagement Platform)
+      File:       images/Urban & Regional Planning/Community Engagement Coordinator (Community Engagement Platform).png
+      Resolution: 1920x1080 | Size: 3009.0 KB
+
+[299] [GENERATED] Urban & Regional Planning -> Policy Analyst (Policy Research & Tracking Tool)
+      File:       images/Urban & Regional Planning/Policy Analyst (Policy Research & Tracking Tool).png
+      Resolution: 1920x1080 | Size: 3123.8 KB
+
+[300] [GENERATED] Urban & Regional Planning -> Land Use/Zoning Officer (Zoning Permit Manager)
+      File:       images/Urban & Regional Planning/Land Use/Zoning Officer (Zoning Permit Manager).png
+      Resolution: 1920x1080 | Size: 3148.1 KB
+
+[301] [GENERATED] Civil Engineering & Infrastructure -> Civil Engineer (Infrastructure Design Suite)
+      File:       images/Civil Engineering & Infrastructure/Civil Engineer (Infrastructure Design Suite).png
+      Resolution: 1920x1080 | Size: 2807.0 KB
+
+[302] [GENERATED] Civil Engineering & Infrastructure -> Structural Engineer (Structural Analysis Tool)
+      File:       images/Civil Engineering & Infrastructure/Structural Engineer (Structural Analysis Tool).png
+      Resolution: 1920x1080 | Size: 3177.8 KB
+
+[303] [GENERATED] Civil Engineering & Infrastructure -> Site Supervisor/Construction Manager (Construction Site Manager)
+      File:       images/Civil Engineering & Infrastructure/Site Supervisor/Construction Manager (Construction Site Manager).png
+      Resolution: 1920x1080 | Size: 3060.6 KB
+
+[304] [GENERATED] Civil Engineering & Infrastructure -> Surveyor (Survey Data Manager)
+      File:       images/Civil Engineering & Infrastructure/Surveyor (Survey Data Manager).png
+      Resolution: 1920x1080 | Size: 3337.7 KB
+
+[305] [GENERATED] Civil Engineering & Infrastructure -> Geotechnical Engineer (Geotechnical Analysis Tool)
+      File:       images/Civil Engineering & Infrastructure/Geotechnical Engineer (Geotechnical Analysis Tool).png
+      Resolution: 1920x1080 | Size: 3274.5 KB
+
+[306] [GENERATED] Civil Engineering & Infrastructure -> Infrastructure Asset Manager (Asset Lifecycle Manager)
+      File:       images/Civil Engineering & Infrastructure/Infrastructure Asset Manager (Asset Lifecycle Manager).png
+      Resolution: 1920x1080 | Size: 3048.1 KB
+
+[307] [GENERATED] HVAC & Refrigeration Services -> HVAC Design Engineer (HVAC Design Tool)
+      File:       images/HVAC & Refrigeration Services/HVAC Design Engineer (HVAC Design Tool).png
+      Resolution: 1920x1080 | Size: 2815.3 KB
+
+[308] [GENERATED] HVAC & Refrigeration Services -> Service/Dispatch Manager (Dispatch Management System)
+      File:       images/HVAC & Refrigeration Services/Service/Dispatch Manager (Dispatch Management System).png
+      Resolution: 1920x1080 | Size: 3226.8 KB
+
+[309] [GENERATED] HVAC & Refrigeration Services -> Energy Efficiency Consultant (Energy Audit Tool)
+      File:       images/HVAC & Refrigeration Services/Energy Efficiency Consultant (Energy Audit Tool).png
+      Resolution: 1920x1080 | Size: 3526.2 KB
+
+[310] [GENERATED] HVAC & Refrigeration Services -> Sales & Estimation Specialist (HVAC Sales Estimator)
+      File:       images/HVAC & Refrigeration Services/Sales & Estimation Specialist (HVAC Sales Estimator).png
+      Resolution: 1920x1080 | Size: 3157.5 KB
+
+[311] [GENERATED] Fire Protection Systems Installation -> Field Acceptance Testing Technician
+      File:       images/Fire Protection Systems Installation/Field Acceptance Testing Technician.png
+      Resolution: 1920x1080 | Size: 3238.6 KB
+
+[312] [GENERATED] Fire Protection Systems Installation -> Commercial Facility Fire Safety Director
+      File:       images/Fire Protection Systems Installation/Commercial Facility Fire Safety Director.png
+      Resolution: 1920x1080 | Size: 2864.8 KB
+
+[313] [GENERATED] Fire Protection Systems Installation -> Special Hazards Suppression Technician
+      File:       images/Fire Protection Systems Installation/Special Hazards Suppression Technician.png
+      Resolution: 1920x1080 | Size: 3005.2 KB
+
+[314] [GENERATED] Fire Protection Systems Installation -> Fire Alarm Systems Integrator
+      File:       images/Fire Protection Systems Installation/Fire Alarm Systems Integrator.png
+      Resolution: 1920x1080 | Size: 3213.8 KB
+
+[315] [GENERATED] Fire Protection Systems Installation -> Insurance Loss Prevention Engineer
+      File:       images/Fire Protection Systems Installation/Insurance Loss Prevention Engineer.png
+      Resolution: 1920x1080 | Size: 3318.8 KB
+
+[316] [GENERATED] Elevator & Escalator Services -> Vertical Transportation Design Engineer
+      File:       images/Elevator & Escalator Services/Vertical Transportation Design Engineer.png
+      Resolution: 1920x1080 | Size: 3319.6 KB
+
+[317] [GENERATED] Elevator & Escalator Services -> Lift Safety Inspector
+      File:       images/Elevator & Escalator Services/Lift Safety Inspector.png
+      Resolution: 1920x1080 | Size: 3079.1 KB
+
+[318] [GENERATED] Elevator & Escalator Services -> Elevator Installation Project Manager
+      File:       images/Elevator & Escalator Services/Elevator Installation Project Manager.png
+      Resolution: 1920x1080 | Size: 2905.6 KB
+
+[319] [GENERATED] Elevator & Escalator Services -> Elevator Parts & Procurement Manager
+      File:       images/Elevator & Escalator Services/Elevator Parts & Procurement Manager.png
+      Resolution: 1920x1080 | Size: 3158.8 KB
+
+[320] [GENERATED] Painting & Coating Contracting -> Industrial Spray Rig Mechanic
+      File:       images/Painting & Coating Contracting/Industrial Spray Rig Mechanic.png
+      Resolution: 1920x1080 | Size: 2805.3 KB
+
+[321] [GENERATED] Painting & Coating Contracting -> Floor Epoxy & Resin Systems Installer
+      File:       images/Painting & Coating Contracting/Floor Epoxy & Resin Systems Installer.png
+      Resolution: 1920x1080 | Size: 2914.7 KB
+
+[322] [GENERATED] Painting & Coating Contracting -> Painting Project Manager
+      File:       images/Painting & Coating Contracting/Painting Project Manager.png
+      Resolution: 1920x1080 | Size: 3044.2 KB
+
+[323] [GENERATED] Painting & Coating Contracting -> Color & Finish Consultant
+      File:       images/Painting & Coating Contracting/Color & Finish Consultant.png
+      Resolution: 1920x1080 | Size: 3155.1 KB
+
+[324] [GENERATED] Painting & Coating Contracting -> Industrial Coating Specification Engineer
+      File:       images/Painting & Coating Contracting/Industrial Coating Specification Engineer.png
+      Resolution: 1920x1080 | Size: 3242.1 KB
+
+[325] [GENERATED] Painting & Coating Contracting -> Paint & Materials Procurement Manager
+      File:       images/Painting & Coating Contracting/Paint & Materials Procurement Manager.png
+      Resolution: 1920x1080 | Size: 3077.1 KB
+
+[326] [GENERATED] Glass & Glazing Services -> Architectural Glass Designer
+      File:       images/Glass & Glazing Services/Architectural Glass Designer.png
+      Resolution: 1920x1080 | Size: 3138.6 KB
+
+[327] [GENERATED] Glass & Glazing Services -> Automated Glass Cutting Machine Operator
+      File:       images/Glass & Glazing Services/Automated Glass Cutting Machine Operator.png
+      Resolution: 1920x1080 | Size: 3060.9 KB
+
+[328] [GENERATED] Glass & Glazing Services -> Glazing Project Manager
+      File:       images/Glass & Glazing Services/Glazing Project Manager.png
+      Resolution: 1920x1080 | Size: 3167.1 KB
+
+[329] [GENERATED] Glass & Glazing Services -> Glass Fabrication Production Manager
+      File:       images/Glass & Glazing Services/Glass Fabrication Production Manager.png
+      Resolution: 1920x1080 | Size: 3196.2 KB
+
+[330] [GENERATED] Glass & Glazing Services -> Facade Inspection Specialist
+      File:       images/Glass & Glazing Services/Facade Inspection Specialist.png
+      Resolution: 1920x1080 | Size: 3191.4 KB
+
+[331] [GENERATED] Glass & Glazing Services -> Glass Procurement & Inventory Manager
+      File:       images/Glass & Glazing Services/Glass Procurement & Inventory Manager.png
+      Resolution: 1920x1080 | Size: 3046.3 KB
+
+[332] [GENERATED] Furniture & Furnishings Manufacturing -> Furniture Designer
+      File:       images/Furniture & Furnishings Manufacturing/Furniture Designer.png
+      Resolution: 1920x1080 | Size: 3273.8 KB
+
+[333] [GENERATED] Furniture & Furnishings Manufacturing -> Furniture Production Planner
+      File:       images/Furniture & Furnishings Manufacturing/Furniture Production Planner.png
+      Resolution: 1920x1080 | Size: 3547.3 KB
+
+[334] [GENERATED] Furniture & Furnishings Manufacturing -> Furniture Cost Estimator
+      File:       images/Furniture & Furnishings Manufacturing/Furniture Cost Estimator.png
+      Resolution: 1920x1080 | Size: 3413.1 KB
+
+[335] [GENERATED] Furniture & Furnishings Manufacturing -> Furniture Quality Manager
+      File:       images/Furniture & Furnishings Manufacturing/Furniture Quality Manager.png
+      Resolution: 1920x1080 | Size: 3329.5 KB
+
+[336] [GENERATED] Furniture & Furnishings Manufacturing -> Furniture Materials Procurement Manager
+      File:       images/Furniture & Furnishings Manufacturing/Furniture Materials Procurement Manager.png
+      Resolution: 1920x1080 | Size: 3237.1 KB
+
+[337] [GENERATED] Furniture & Furnishings Manufacturing -> Furniture Sales & Order Manager
+      File:       images/Furniture & Furnishings Manufacturing/Furniture Sales & Order Manager.png
+      Resolution: 1920x1080 | Size: 3072.7 KB
+
+[338] [GENERATED] Wood Processing & Timber Products -> Timber Procurement Manager
+      File:       images/Wood Processing & Timber Products/Timber Procurement Manager.png
+      Resolution: 1920x1080 | Size: 3587.5 KB
+
+[339] [GENERATED] Wood Processing & Timber Products -> Timber Grading Inspector
+      File:       images/Wood Processing & Timber Products/Timber Grading Inspector.png
+      Resolution: 1920x1080 | Size: 3495.6 KB
+
+[340] [GENERATED] Wood Processing & Timber Products -> Lumber Inventory Manager
+      File:       images/Wood Processing & Timber Products/Lumber Inventory Manager.png
+      Resolution: 1920x1080 | Size: 3262.2 KB
+
+[341] [GENERATED] Wood Processing & Timber Products -> Timber Sales & Distribution Manager
+      File:       images/Wood Processing & Timber Products/Timber Sales & Distribution Manager.png
+      Resolution: 1920x1080 | Size: 3313.6 KB
+
+[342] [GENERATED] Pulp & Paper Manufacturing -> Pulp Production Engineer
+      File:       images/Pulp & Paper Manufacturing/Pulp Production Engineer.png
+      Resolution: 1920x1080 | Size: 3432.3 KB
+
+[343] [GENERATED] Pulp & Paper Manufacturing -> Paper Production Planner
+      File:       images/Pulp & Paper Manufacturing/Paper Production Planner.png
+      Resolution: 1920x1080 | Size: 3413.8 KB
+
+[344] [GENERATED] Pulp & Paper Manufacturing -> Paper Quality & Laboratory Manager
+      File:       images/Pulp & Paper Manufacturing/Paper Quality & Laboratory Manager.png
+      Resolution: 1920x1080 | Size: 3403.8 KB
+
+[345] [GENERATED] Pulp & Paper Manufacturing -> Mill Maintenance Manager
+      File:       images/Pulp & Paper Manufacturing/Mill Maintenance Manager.png
+      Resolution: 1920x1080 | Size: 3492.6 KB
+
+[346] [GENERATED] Pulp & Paper Manufacturing -> Raw Materials & Chemical Manager
+      File:       images/Pulp & Paper Manufacturing/Raw Materials & Chemical Manager.png
+      Resolution: 1920x1080 | Size: 3232.0 KB
+
+[347] [GENERATED] Pulp & Paper Manufacturing -> Paper Sales & Distribution Manager
+      File:       images/Pulp & Paper Manufacturing/Paper Sales & Distribution Manager.png
+      Resolution: 1920x1080 | Size: 3153.2 KB
+
+[348] [GENERATED] Printing & Packaging Industry -> Packaging Structural Designer
+      File:       images/Printing & Packaging Industry/Packaging Structural Designer.png
+      Resolution: 1920x1080 | Size: 3137.2 KB
+
+[349] [GENERATED] Printing & Packaging Industry -> Color Science & Calibration Engineer
+      File:       images/Printing & Packaging Industry/Color Science & Calibration Engineer.png
+      Resolution: 1920x1080 | Size: 3248.2 KB
+
+[350] [GENERATED] Printing & Packaging Industry -> Sustainable Packaging Materials Engineer
+      File:       images/Printing & Packaging Industry/Sustainable Packaging Materials Engineer.png
+      Resolution: 1920x1080 | Size: 3322.4 KB
+
+[351] [GENERATED] Printing & Packaging Industry -> Packaging Order & Client Manager
+      File:       images/Printing & Packaging Industry/Packaging Order & Client Manager.png
+      Resolution: 1920x1080 | Size: 3246.6 KB
+
+[352] [GENERATED] Book & Periodical Publishing -> Acquisitions Editor
+      File:       images/Book & Periodical Publishing/Acquisitions Editor.png
+      Resolution: 1920x1080 | Size: 3378.0 KB
+
+[353] [GENERATED] Book & Periodical Publishing -> Managing Editor
+      File:       images/Book & Periodical Publishing/Managing Editor.png
+      Resolution: 1920x1080 | Size: 3367.2 KB
+
+[354] [GENERATED] Book & Periodical Publishing -> Publishing Production Manager
+      File:       images/Book & Periodical Publishing/Publishing Production Manager.png
+      Resolution: 1920x1080 | Size: 3142.7 KB
+
+[355] [GENERATED] Book & Periodical Publishing -> Rights & Licensing Manager
+      File:       images/Book & Periodical Publishing/Rights & Licensing Manager.png
+      Resolution: 1920x1080 | Size: 3286.7 KB
+
+[356] [GENERATED] Book & Periodical Publishing -> Publishing Sales & Distribution Manager
+      File:       images/Book & Periodical Publishing/Publishing Sales & Distribution Manager.png
+      Resolution: 1920x1080 | Size: 2957.9 KB
+
+[357] [GENERATED] Book & Periodical Publishing -> Royalty & Author Accounts Manager
+      File:       images/Book & Periodical Publishing/Royalty & Author Accounts Manager.png
+      Resolution: 1920x1080 | Size: 3135.8 KB
+
+[358] [GENERATED] Digital Publishing & Online Media -> Digital Managing Editor
+      File:       images/Digital Publishing & Online Media/Digital Managing Editor.png
+      Resolution: 1920x1080 | Size: 3087.5 KB
+
+[359] [GENERATED] Digital Publishing & Online Media -> SEO Content Strategist
+      File:       images/Digital Publishing & Online Media/SEO Content Strategist.png
+      Resolution: 1920x1080 | Size: 3172.8 KB
+
+[360] [GENERATED] Digital Publishing & Online Media -> Digital Advertising Manager
+      File:       images/Digital Publishing & Online Media/Digital Advertising Manager.png
+      Resolution: 1920x1080 | Size: 3290.2 KB
+
+[361] [GENERATED] Digital Publishing & Online Media -> Content Analytics Manager
+      File:       images/Digital Publishing & Online Media/Content Analytics Manager.png
+      Resolution: 1920x1080 | Size: 3031.5 KB
+
+[362] [GENERATED] Broadcasting (TV & Radio) -> Newsroom Assignment Editor
+      File:       images/Broadcasting (TV & Radio)/Newsroom Assignment Editor.png
+      Resolution: 1920x1080 | Size: 3110.7 KB
+
+[363] [GENERATED] Broadcasting (TV & Radio) -> Advertising Sales Manager
+      File:       images/Broadcasting (TV & Radio)/Advertising Sales Manager.png
+      Resolution: 1920x1080 | Size: 2953.1 KB
+
+[364] [GENERATED] Broadcasting (TV & Radio) -> Broadcast Operations Manager
+      File:       images/Broadcasting (TV & Radio)/Broadcast Operations Manager.png
+      Resolution: 1920x1080 | Size: 3044.7 KB
+
+[365] [GENERATED] Broadcasting (TV & Radio) -> Media Archive Manager
+      File:       images/Broadcasting (TV & Radio)/Media Archive Manager.png
+      Resolution: 1920x1080 | Size: 3019.7 KB
+
+[366] [GENERATED] Film & Video Production -> Film Producer
+      File:       images/Film & Video Production/Film Producer.png
+      Resolution: 1920x1080 | Size: 3196.3 KB
+
+[367] [GENERATED] Film & Video Production -> Production Manager
+      File:       images/Film & Video Production/Production Manager.png
+      Resolution: 1920x1080 | Size: 3031.9 KB
+
+[368] [GENERATED] Film & Video Production -> Production Sound Mixer
+      File:       images/Film & Video Production/Production Sound Mixer.png
+      Resolution: 1920x1080 | Size: 3178.0 KB
+
+[369] [GENERATED] Film & Video Production -> Location Manager
+      File:       images/Film & Video Production/Location Manager.png
+      Resolution: 1920x1080 | Size: 3119.3 KB
+
+[370] [GENERATED] Film & Video Production -> VFX Pipeline Technical Director
+      File:       images/Film & Video Production/VFX Pipeline Technical Director.png
+      Resolution: 1920x1080 | Size: 3162.6 KB
+
+================================================================================
+PART 2: REMAINING GENERATION QUEUE (44 items)
+================================================================================
+[001] [REMAINING] Fire Protection Systems Installation -> Municipal Fire Marshal
+      Target:     images/Fire Protection Systems Installation/Municipal Fire Marshal.png
+      Target Res: 1920x1080
+
+[002] [REMAINING] Film & Video Production -> Camera Systems & DIT Engineer
+      Target:     images/Film & Video Production/Camera Systems & DIT Engineer.png
+      Target Res: 1920x1080
+
+[003] [REMAINING] Music Recording & Distribution -> Music Producer
+      Target:     images/Music Recording & Distribution/Music Producer.png
+      Target Res: 1920x1080
+
+[004] [REMAINING] Music Recording & Distribution -> Studio Manager
+      Target:     images/Music Recording & Distribution/Studio Manager.png
+      Target Res: 1920x1080
+
+[005] [REMAINING] Music Recording & Distribution -> Artist & Repertoire (A&R) Manager
+      Target:     images/Music Recording & Distribution/Artist & Repertoire (A&R) Manager.png
+      Target Res: 1920x1080
+
+[006] [REMAINING] Music Recording & Distribution -> Music Rights & Licensing Manager
+      Target:     images/Music Recording & Distribution/Music Rights & Licensing Manager.png
+      Target Res: 1920x1080
+
+[007] [REMAINING] Music Recording & Distribution -> Royalty Manager
+      Target:     images/Music Recording & Distribution/Royalty Manager.png
+      Target Res: 1920x1080
+
+[008] [REMAINING] Music Recording & Distribution -> Music Release & Distribution Manager
+      Target:     images/Music Recording & Distribution/Music Release & Distribution Manager.png
+      Target Res: 1920x1080
+
+[009] [REMAINING] Animation & Visual Effects -> Animation Production Manager
+      Target:     images/Animation & Visual Effects/Animation Production Manager.png
+      Target Res: 1920x1080
+
+[010] [REMAINING] Animation & Visual Effects -> VFX Supervisor
+      Target:     images/Animation & Visual Effects/VFX Supervisor.png
+      Target Res: 1920x1080
+
+[011] [REMAINING] Animation & Visual Effects -> Texture & Lookdev Technical Director
+      Target:     images/Animation & Visual Effects/Texture & Lookdev Technical Director.png
+      Target Res: 1920x1080
+
+[012] [REMAINING] Animation & Visual Effects -> Render Farm Manager
+      Target:     images/Animation & Visual Effects/Render Farm Manager.png
+      Target Res: 1920x1080
+
+[013] [REMAINING] Animation & Visual Effects -> Crowd Simulation Specialist
+      Target:     images/Animation & Visual Effects/Crowd Simulation Specialist.png
+      Target Res: 1920x1080
+
+[014] [REMAINING] Animation & Visual Effects -> Client Review & Delivery Manager
+      Target:     images/Animation & Visual Effects/Client Review & Delivery Manager.png
+      Target Res: 1920x1080
+
+[015] [REMAINING] Video Game Development & Publishing -> Game Designer
+      Target:     images/Video Game Development & Publishing/Game Designer.png
+      Target Res: 1920x1080
+
+[016] [REMAINING] Video Game Development & Publishing -> Game Producer
+      Target:     images/Video Game Development & Publishing/Game Producer.png
+      Target Res: 1920x1080
+
+[017] [REMAINING] Video Game Development & Publishing -> Game QA Manager
+      Target:     images/Video Game Development & Publishing/Game QA Manager.png
+      Target Res: 1920x1080
+
+[018] [REMAINING] Video Game Development & Publishing -> Game Economy Designer
+      Target:     images/Video Game Development & Publishing/Game Economy Designer.png
+      Target Res: 1920x1080
+
+[019] [REMAINING] Video Game Development & Publishing -> Live Operations Manager
+      Target:     images/Video Game Development & Publishing/Live Operations Manager.png
+      Target Res: 1920x1080
+
+[020] [REMAINING] Video Game Development & Publishing -> Game Publishing & Release Manager
+      Target:     images/Video Game Development & Publishing/Game Publishing & Release Manager.png
+      Target Res: 1920x1080
+
+[021] [REMAINING] Software Development & SaaS -> Product Manager
+      Target:     images/Software Development & SaaS/Product Manager.png
+      Target Res: 1920x1080
+
+[022] [REMAINING] Software Development & SaaS -> Software Engineering Manager
+      Target:     images/Software Development & SaaS/Software Engineering Manager.png
+      Target Res: 1920x1080
+
+[023] [REMAINING] Software Development & SaaS -> QA/Test Manager
+      Target:     images/Software Development & SaaS/QA/Test Manager.png
+      Target Res: 1920x1080
+
+[024] [REMAINING] Software Development & SaaS -> DevOps / Release Manager
+      Target:     images/Software Development & SaaS/DevOps / Release Manager.png
+      Target Res: 1920x1080
+
+[025] [REMAINING] Software Development & SaaS -> Customer Success Manager
+      Target:     images/Software Development & SaaS/Customer Success Manager.png
+      Target Res: 1920x1080
+
+[026] [REMAINING] Software Development & SaaS -> SaaS Revenue Operations Manager
+      Target:     images/Software Development & SaaS/SaaS Revenue Operations Manager.png
+      Target Res: 1920x1080
+
+[027] [REMAINING] Cloud Computing & Web Hosting -> Cloud Solutions Architect
+      Target:     images/Cloud Computing & Web Hosting/Cloud Solutions Architect.png
+      Target Res: 1920x1080
+
+[028] [REMAINING] Cloud Computing & Web Hosting -> FinOps Analyst
+      Target:     images/Cloud Computing & Web Hosting/FinOps Analyst.png
+      Target Res: 1920x1080
+
+[029] [REMAINING] Cloud Computing & Web Hosting -> Site Reliability Engineer
+      Target:     images/Cloud Computing & Web Hosting/Site Reliability Engineer.png
+      Target Res: 1920x1080
+
+[030] [REMAINING] Cloud Computing & Web Hosting -> Hosting Account Administrator
+      Target:     images/Cloud Computing & Web Hosting/Hosting Account Administrator.png
+      Target Res: 1920x1080
+
+[031] [REMAINING] Cybersecurity Solutions & Services -> SOC Analyst
+      Target:     images/Cybersecurity Solutions & Services/SOC Analyst.png
+      Target Res: 1920x1080
+
+[032] [REMAINING] Cybersecurity Solutions & Services -> Penetration Test Manager
+      Target:     images/Cybersecurity Solutions & Services/Penetration Test Manager.png
+      Target Res: 1920x1080
+
+[033] [REMAINING] Cybersecurity Solutions & Services -> GRC Analyst
+      Target:     images/Cybersecurity Solutions & Services/GRC Analyst.png
+      Target Res: 1920x1080
+
+[034] [REMAINING] Cybersecurity Solutions & Services -> Incident Response Manager
+      Target:     images/Cybersecurity Solutions & Services/Incident Response Manager.png
+      Target Res: 1920x1080
+
+[035] [REMAINING] Cybersecurity Solutions & Services -> Vulnerability Management Analyst
+      Target:     images/Cybersecurity Solutions & Services/Vulnerability Management Analyst.png
+      Target Res: 1920x1080
+
+[036] [REMAINING] Cybersecurity Solutions & Services -> Security Awareness Manager
+      Target:     images/Cybersecurity Solutions & Services/Security Awareness Manager.png
+      Target Res: 1920x1080
+
+[037] [REMAINING] Data Science & Analytics -> Data Scientist
+      Target:     images/Data Science & Analytics/Data Scientist.png
+      Target Res: 1920x1080
+
+[038] [REMAINING] Data Science & Analytics -> Business Intelligence Analyst
+      Target:     images/Data Science & Analytics/Business Intelligence Analyst.png
+      Target Res: 1920x1080
+
+[039] [REMAINING] Data Science & Analytics -> Product Analyst
+      Target:     images/Data Science & Analytics/Product Analyst.png
+      Target Res: 1920x1080
+
+[040] [REMAINING] Data Science & Analytics -> Data Governance Manager
+      Target:     images/Data Science & Analytics/Data Governance Manager.png
+      Target Res: 1920x1080
+
+[041] [REMAINING] Artificial Intelligence & Machine Learning -> AI Product Manager
+      Target:     images/Artificial Intelligence & Machine Learning/AI Product Manager.png
+      Target Res: 1920x1080
+
+[042] [REMAINING] Artificial Intelligence & Machine Learning -> AI Evaluation Engineer
+      Target:     images/Artificial Intelligence & Machine Learning/AI Evaluation Engineer.png
+      Target Res: 1920x1080
+
+[043] [REMAINING] Artificial Intelligence & Machine Learning -> AI Data / Annotation Manager
+      Target:     images/Artificial Intelligence & Machine Learning/AI Data / Annotation Manager.png
+      Target Res: 1920x1080
+
+[044] [REMAINING] Artificial Intelligence & Machine Learning -> AI Governance & Risk Specialist
+      Target:     images/Artificial Intelligence & Machine Learning/AI Governance & Risk Specialist.png
+      Target Res: 1920x1080
+
